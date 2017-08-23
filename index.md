@@ -26,7 +26,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Sep 16--22    | 4    | [Lesson 4][l4]  | Initial discussion posts | Final discussion posts and [Project 1, Part D][p1] |
 | Sep 23--29    | 5    | [Lesson 5][l5]  | Initial discussion posts | Final discussion posts and [Project 1, Part E][p1] |
 | Sep 30--Oct 6 | 6    | [Lesson 6][l6]  | Initial discussion posts | Final discussion posts and [Project 1, Part F][p1] |
-| Oct 7--13     | 7    | ---             | Exam 1 *                 | [Project 1 Final][p1] and [Project 2, Part A][p2]  |
+| Oct 7--13     | 7    | ---             | Exam 1\*                 | [Project 1 Final][p1] and [Project 2, Part A][p2]  |
 | Oct 14--20    | x    | Fall break      | --- | --- |
 | Oct 21--27    | 8    | [Lesson 7][l7]     | Initial discussion posts | Final discussion posts and [Project 2, Part B][p2] |
 | Oct 28--Nov 3 | 9    | [Lesson 8][l8]     | Initial discussion posts | Final discussion posts and [Project 2, Part C][p2] |
@@ -35,9 +35,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Nov 18--24    | x    | Thanksgiving break | --- | --- |
 | Nov 25--Dec 1 | 12   | [Lesson 11][l11]   | Initial discussion posts | Final discussion posts and [Project 2, Part F][p2] |
 | Dec 2--8      | 13   | [Lesson 12][l12]   | Initial discussion posts | Final discussion posts and [Project 2, Part G][p2] |
-| Dec 9--15     | 14   | ---                | --- | Exam 2 *, Biblical Perspectives Paper *, and [Project 2 Final][p2] |
-
-[Project Deliverable 1a][pd1a] ***
+| Dec 9--15     | 14   | ---                | --- | Exam 2\*, Biblical Perspectives Paper\*, and [Project 2 Final][p2] |
 
 \*Completed in Moodle. \| \*\*Completed in InVision.
 
