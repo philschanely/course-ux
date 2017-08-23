@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Scripting for Interactivity
+title: User Experience and Interface Design
 email: philschanely@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Basic course in JavaScript and jQuery built originally for Cedarville University's Interactive Design program.
