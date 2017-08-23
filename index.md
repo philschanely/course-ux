@@ -19,7 +19,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 
 |               | Unit | Reading         | Due 5pm Tue              | Due 5pm Fri                                        |
 |---------------|:-----|:----------------|:-------------------------|:---------------------------------------------------|
-| Aug 23--25    | 0    | [Lesson 0][l0]  | Initial discussion posts | ---                                                |
+| Aug 23--25    | 0    | [Lesson 0][l0]  | ---                      | Initial discussion posts                           |
 | Aug 26--Sep 1 | 1    | [Lesson 1][l1]  | Initial discussion posts | Final discussion posts and [Project 1, Part A][p1] |
 | Sep 2--8      | 2    | [Lesson 2][l2]  | Initial discussion posts | Final discussion posts and [Project 1, Part B][p1] |
 | Sep 9--15     | 3    | [Lesson 3][l3]  | Initial discussion posts | Final discussion posts and [Project 1, Part C][p1] |
