@@ -15,4 +15,4 @@ Let's continue again with Garrett's planes and look at the Skeleton Plane.
 ***Read Chapter 6 from [Garrett][garrett]***.
 
 
-[garrett]: http://re.philschanely.com/garrett
+[garrett]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780321688651

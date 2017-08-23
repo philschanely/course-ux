@@ -6,7 +6,7 @@ title: "9: Emotional Design for Humans"
 
 Let's start a new text, Aaron Walter's *Designing for Emotion*. What does it mean to "design for emotion?" How can we make our interfaces not just functional and efficient, but also appealing to people?
 
-***Read Chapter 1 from [Walter »](http://re.philschanely.com/walter)***
+***Read Chapter 1 from [Walter »][walter]***
 
 #### Questions:
 
@@ -19,4 +19,6 @@ Let's start a new text, Aaron Walter's *Designing for Emotion*. What does it mea
 
 Next we continue thinking about emotional design specifically as geared towards real human beings. Genius.
 
-***Read Chapter 2 from [Walter »](http://re.philschanely.com/walter)***
+***Read Chapter 2 from [Walter »][walter]***
+
+[walter]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780133052954

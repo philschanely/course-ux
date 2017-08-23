@@ -10,4 +10,4 @@ While interactive design is the focus the skills you develop will have an impact
 
 Let's start by considering the impact that interactive devices have made in our world by watching this video:
 
-[Connecting](http://re.philschanely.com/connecting)
+[Connecting](http://vimeo.com/52861634)

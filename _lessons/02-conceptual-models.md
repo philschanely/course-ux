@@ -14,5 +14,5 @@ Next lets continue our course from Udacity and learn about conceptual models.
 
 ***Complete lesson 2 from [the Udacity course][norman].***
 
-[holtz]: http://re.philschanely.com/holtzblatt
-[norman]: http://re.philschanely.com/udacity-norman
+[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[norman]: https://www.udacity.com/course/design101

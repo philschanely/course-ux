@@ -21,5 +21,5 @@ Sign up for Udacity for free and begin [this course by Don and his colleagues][n
 Note that the videos will introduce a "course" that we're not going to complete in full,
 but, rather, will simply enjoy the instructional content from Norman and his colleagues.  
 
-[holtz]: http://re.philschanely.com/holtzblatt
-[norman]: http://re.philschanely.com/udacity-norman
+[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[norman]: https://www.udacity.com/course/design101
