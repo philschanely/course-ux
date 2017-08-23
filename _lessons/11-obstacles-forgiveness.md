@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "11: Overcoming Obstacles"
+title: "11: Overcoming Obstacles and Forgiveness"
 ---
 
 ### Overcoming Obstacles

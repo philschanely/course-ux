@@ -35,7 +35,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Nov 18--24    | x    | Thanksgiving break | --- | --- |
 | Nov 25--Dec 1 | 12   | [Lesson 11][l11]   | Initial discussion posts | Final discussion posts and [Project 2, Part F][p2] |
 | Dec 2--8      | 13   | [Lesson 12][l12]   | Initial discussion posts | Final discussion posts and [Project 2, Part G][p2] |
-| Dec 9--15     | 14   | ---                | --- | Exam 2 *, [Biblical Perspectives Paper][bp] *, and [Project 2 Final][p2] |
+| Dec 9--15     | 14   | ---                | --- | Exam 2 *, Biblical Perspectives Paper *, and [Project 2 Final][p2] |
 
 [Project Deliverable 1a][pd1a] ***
 
@@ -50,7 +50,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 [l6]: /lessons/06-strategy-scope.html
 [l7]: /lessons/07-structure-skeleton.html
 [l8]: /lessons/08-surface.html
-[l9]: /lessons/09-emotional-design-for-humans.html
+[l9]: /lessons/09-emotional-design.html
 [l10]: /lessons/10-personality-engagement.html
 [l11]: /lessons/11-obstacles-forgiveness.html
 [l12]: /lessons/12-risk-reward.html
@@ -60,4 +60,3 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 [ex3]: /activities/ex3.html
 [p1]: /activities/pr01.html
 [p2]: /activities/pr02.html
-[bp]: /activities/bp.html
