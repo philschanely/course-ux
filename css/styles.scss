@@ -1,0 +1,6 @@
+---
+---
+
+@import "_mixins.scss";
+
+@include customize-colors($color-indigo, $color-cyan, $color-green);
