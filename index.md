@@ -26,8 +26,8 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Sep 16--22    | 4    | [Lesson 4][l4]  | Initial discussion posts | Final discussion posts and [Project 1, Part D][p1] |
 | Sep 23--29    | 5    | [Lesson 5][l5]  | Initial discussion posts | Final discussion posts and [Project 1, Part E][p1] |
 | Sep 30--Oct 6 | 6    | [Lesson 6][l6]  | Initial discussion posts | Final discussion posts and [Project 1, Part F][p1] |
-| Oct 7--13     | 7    | Exam | --- | Exam 1\* (Extension) |
-| Oct 14--20    | x    | Fall break       | [Project 1 Final][p1] and [Project 2, Part A][p2] (Extension) | --- Fall Break!! --- |
+| Oct 7--13     | 7    | Exam            | ---                      | Exam 1\* (Extension)                               |
+| Oct 14--20    | x    | Fall break | [Project 1 Final][p1] and [Project 2, Part A][p2] (Extension) | --- Fall Break!! --- |
 | Oct 21--27    | 8    | [Lesson 7][l7]     | Initial discussion posts | Final discussion posts and [Project 2, Part B][p2] |
 | Oct 28--Nov 3 | 9    | [Lesson 8][l8]     | Initial discussion posts | Final discussion posts and [Project 2, Part C][p2] |
 | Nov 4--10     | 10   | [Lesson 9][l9]     | Initial discussion posts | Final discussion posts and [Project 2, Part D][p2] |
@@ -46,8 +46,8 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 [l4]: /lessons/04-sharing-data.html
 [l5]: /lessons/05-garretts-elements.html
 [l6]: /lessons/06-strategy-scope.html
-[l7]: /lessons/07-structure-skeleton.html
-[l8]: /lessons/08-surface.html
+[l7]: /lessons/07-structure.html
+[l8]: /lessons/08-skeleton-surface.html
 [l9]: /lessons/09-emotional-design.html
 [l10]: /lessons/10-personality-engagement.html
 [l11]: /lessons/11-obstacles-forgiveness.html
