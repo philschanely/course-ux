@@ -28,7 +28,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Feb 17--23    | 6    | [Lesson 6][l6]   | Initial discussion posts | Final discussion posts and [Project 1, Part F][p1] |
 | Feb 24--Mar 2 | 7    | Exam             | Exam 1\* *(extended to Fri)* | [Project 1 Final][p1], [Project 2, Part A][p2], and *Exam 1* |
 | Mar 3--9      | x    | Spring break     | ---                      | ---                                                |
-| Mar 10--16    | 8    | [Lesson 7][l7]   | Initial discussion posts | Final discussion posts |
+| Mar 10--16    | 8    | [Lesson 7][l7]   | Initial discussion posts | Final discussion posts (*P2B deadline extended*) |
 | Mar 17--23    | 9    | [Lesson 8][l8]   | Initial discussion posts and [Project 2, Part B][p2] | Final discussion posts and [Project 2, Part C][p2] |
 | Mar 24--30    | 10a  | [Lesson 9][l9]   | Initial discussion posts | --- Easter Weekend ---                             |
 | Mar 31--Apr 6 | 10b  | ---              | --- Easter Weekend ---   | Final discussion posts and [Project 2, Part D][p2] |
