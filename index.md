@@ -31,7 +31,7 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Mar 10--16    | 8    | [Lesson 7][l7]   | Initial discussion posts | Final discussion posts (*P2B deadline extended*) |
 | Mar 17--23    | 9    | [Lesson 8][l8]   | Initial discussion posts and [Project 2, Part B][p2] | Final discussion posts (*P2C deadline extended*) |
 | Mar 24--30    | 10a  | [Lesson 9][l9]   | Initial discussion posts and [Project 2, Part C][p2] | --- Easter Weekend --- |
-| Mar 31--Apr 6 | 10b  | ---              | --- Easter Weekend ---   | Final discussion posts and [Project 2, Part D][p2] |
+| Mar 31--Apr 6 | 10b  | ---              | --- Easter Weekend ---   | Final discussion posts and [Project 2, Part D][p2] *Extended to 5pm Sat* |
 | Apr 7--13     | 11   | [Lesson 10][l10] | Initial discussion posts | Final discussion posts and [Project 2, Part E][p2] |
 | Apr 14--20    | 12   | [Lesson 11][l11] | Initial discussion posts | Final discussion posts and [Project 2, Part F][p2] |
 | Apr 21--27    | 13   | [Lesson 12][l12] | Exam 2\*                 | [Project 2, Part G][p2]                            |
