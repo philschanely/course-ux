@@ -34,8 +34,8 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Mar 31--Apr 6 | 10b  | ---              | --- Easter Weekend ---   | Final discussion posts and [Project 2, Part D][p2] *Extended to 5pm Sat* |
 | Apr 7--13     | 11   | [Lesson 10][l10] | Initial discussion posts | Final discussion posts and [Project 2, Part E][p2] |
 | Apr 14--20    | 12   | [Lesson 11][l11] | Initial discussion posts | Final discussion posts and [Project 2, Part F][p2] |
-| Apr 21--27    | 13   | [Lesson 12][l12] | Exam 2\*                 | [Project 2, Part G][p2]                            |
-| Apr 28--May 4 | 14   | ---              | [Project 2 Final][p2]    | Biblical Perspectives Paper\*                      |
+| Apr 21--27    | 13   | [Lesson 12][l12] | ~Exam 2\*~ Cancelled     | [Project 2, Part G][p2]                            |
+| Apr 28--May 4 | 14   | ---              | [Project 2 Final][p2]    | [Biblical Perspectives Paper][paper]\*             |
 
 \*Completed in Moodle. \| \*\*Completed in InVision.
 
@@ -58,3 +58,4 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 [ex3]: /activities/ex3.html
 [p1]: /activities/pr01.html
 [p2]: /activities/pr02.html
+[paper]: /activities/manifesto.html
