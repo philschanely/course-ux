@@ -2,13 +2,12 @@
 layout: activity
 title:  "Interactive Design Manifesto Paper"
 ---
-### Interactive Design Manifesto Paper
 
-#### Background
+### Background
 
 I've been involved in a number of job interviews (on both sides of the table) and reviewed a variety of job descriptions. It strikes me that there is not at all a consensus on what it is to do UX or be a UX/UI designer. Therefore I believe it behooves you as a student of this course and graduate of our program to be prepared to enter the workplace having thought through for yourself and based on our course material what all this means. Some companies you might consider will have a solid understanding of UX/UI and you will need to compare it with your understanding to ensure you're on the same page to adjust or help them further develop it. Other companies might not have a clue of what it is despite having jobs that aim to do it... you might be the first person coming with some background in related topics!
 
-#### Requirements
+### Requirements
 
 The Interactive Design Manifesto paper is a set of *at least 5 principles* you are taking away from this course that will guide you as you complete work in the field of interactive design (whether or not you actually plan to do work in this field). These points should address key takeaways from the span of the semester such as:
 
