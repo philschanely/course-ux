@@ -4,7 +4,7 @@ title:  "3: Interpretation, Evaluation, and Execution"
 ---
 ### Interpreting Contextual Research
 
-Returning to the Holztblatt text we now look at how to effectively share data from contextual research and take next steps towards acting on it.
+Returning to the Holtzblatt text we now look at how to effectively share data from contextual research and take next steps towards acting on it.
 
 ***Read Chapter 4 from [Holtzblatt][holtz].***
 

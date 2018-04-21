@@ -4,7 +4,7 @@ title:  "2:  Contextual Inquiry and Conceptual Models"
 ---
 ### Contextual Inquiry
 
-Now we'll turn back to the Holztblatt text to learn more about methods of contextual inquiry.
+Now we'll turn back to the Holtzblatt text to learn more about methods of contextual inquiry.
 
 ***Read Chapter 3 from [Holtzblatt][holtz].***
 
