@@ -32,10 +32,10 @@ Here is a bird's-eye-view of the course schedule. Additional details can be foun
 | Oct 27--Nov 2 | 9    | [Lesson 8][l8]   | Initial discussion posts | Final discussion posts and [Project 2, Part C][p2] |
 | Nov 3--9      | 10   | [Lesson 9][l9]   | Initial discussion posts | Final discussion posts and [Project 2, Part D][p2] |
 | Nov 10--16    | 11   | [Lesson 10][l10] | Initial discussion posts | Final discussion posts and [Project 2, Part E][p2] |
-| Nov 17--23    | 12a  | [Lesson 11][l11] | Initial discussion posts | Final discussion posts and [Project 2, Part F][p2] |
-| Nov 24--30    | 12b  | [Lesson 12][l12] | [Biblical Perspectives Paper][paper]\* | *--Thanksgiving Break--*             |
-| Dec 1--7      | 13   | [Lesson 12][l12] | *--Thanksgiving Break--* | [Project 2, Part G][p2]                            |
-| Dec 8--14     | 14   | ---              | *(finish project)*       | [Project 2 Final][p2]                              |
+| Nov 17--23    | 12a  | [Lesson 11][l11] | Initial discussion posts | *--Thanksgiving Break--*                           |
+| Nov 24--30    | 12b  | [Lesson 12][l12] | *--Thanksgiving Break--* | Final discussion posts and [Project 2, Part F][p2] |
+| Dec 1--7      | 13   | [Lesson 12][l12] | [Project 2, Part G][p2]  | [Project 2 Final][p2]                              |
+| Dec 8--14     | 14   | ---              | [Biblical Perspectives Paper][paper]\* | *--Course finished--*                |
 
 \*Completed in Moodle. \| \*\*Completed in InVision.
 
