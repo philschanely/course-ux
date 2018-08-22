@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-professor
 title:  "0 Discussions"
 ---
 Use this space for discussions from Lesson 0: Introduction. Make at least three substantive posts: at least one should be an answer to one of the thread prompts and two or more should be answers to others' posts.

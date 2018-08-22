@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-professor
 title:  "2 Discussions"
 ---
 For Lesson 2 *everyone must complete items 2.1 and 2.2* in which we practice with observation techniques. These two posts will be a little larger than a typical post and count for 3 points each this week.

@@ -7,10 +7,10 @@ layout: default
   <div class="content">
     {{ content }}
     <ul class="list-unstyled list-group">
-      {% for discussion in site.discussions %}
+      {% for announcement in site.announcements %}
       <li class="list-group-item">
-        <a class="discussion-link" href="{{ discussion.url | relative_url }}">
-          {{ discussion.title | escape }}
+        <a class="announcement-link" href="{{ announcement.url | relative_url }}">
+          {{ announcement.title | escape }}
         </a>
       </li>
       {% endfor %}

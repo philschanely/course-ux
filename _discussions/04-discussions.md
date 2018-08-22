@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-professor
 title:  "4 Discussions"
 ---
 Returning to a little more of a typical pattern, this week answer at least two of the following threads by 5pm Tuesday. Then post at least three more times by 5pm Friday either in response to others or on a new thread.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-professor
 title:  "3 Discussions"
 ---
 Post at least two times in either or both of the threads 3.1 and 3.2 **by 5pm Tuesday.** Each post is worth 2 points.
