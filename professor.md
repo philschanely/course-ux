@@ -21,8 +21,16 @@ Action items this week include:
 
 ### 1. Lesson 1
 
-More coming soon...
+Action items:
+
+* Send announcement at start of week to remind of upcoming stuffs.
+* Review participation from the previous week and complete the Roster Verification the Office of Registrar likely sent out. Any students who either didn't complete the required intro activities may be marked as "absent".
+* Engage in discussions
 
 ### 2. Lesson 2
 
-Etc...
+Action items:
+
+* This week involves a different kind of activity in the discussions, the Observation Exercise. Be sure to be familiar with it.
+* Send announcement at start of week to remind of upcoming stuffs, particularly the different activity mentioned above.
+* Engage in discussions
