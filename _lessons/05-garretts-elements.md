@@ -38,18 +38,14 @@ Focusing in on the four "required" color panels for a moment:
 
 Last of all, *show these colors in your type samples below the color panels* Put them to tasteful use to show how you'll use them to liven up your text and carry over the brand. It usually helps as well if these colors are compatible if not contained in the sample images you show.
 
+**Sample 1: USACE Careers Style Tiles**
 
-<figure class="figure--light">
-<figcaption>Example 1: USACE Style Tiles</figcaption>
-![](/docs/style-tyles-usace.png)
-</figure>
+![](/docs/style-tiles-usace.png)
 
-<figure class="figure--light">
-<figcaption>Example 2: Bereans at the Gate Style Tiles</figcaption>
-![](/docs/style-tyles-bereans.png)
-</figure>
+**Sample 2: Bereans at the Gate Style Tiles**
 
-<figure class="figure--light">
-<figcaption>Example 3: Custom UI Toolkit Style Tiles</figcaption>
-![](/docs/style-tyles-custom.png)
-</figure>
+![](/docs/style-tiles-bereans.png)
+
+**Sample 3: Custom UI Style Tiles**
+
+![](/docs/style-tiles-custom.png)
