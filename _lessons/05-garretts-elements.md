@@ -41,15 +41,15 @@ Last of all, *show these colors in your type samples below the color panels* Put
 
 <figure class="figure--light">
 <figcaption>Example 1: USACE Style Tiles</figcaption>
-![](docs/style-tyles-usace.png)
+![](/docs/style-tyles-usace.png)
 </figure>
 
 <figure class="figure--light">
 <figcaption>Example 2: Bereans at the Gate Style Tiles</figcaption>
-![](docs/style-tyles-bereans.png)
+![](/docs/style-tyles-bereans.png)
 </figure>
 
 <figure class="figure--light">
 <figcaption>Example 3: Custom UI Toolkit Style Tiles</figcaption>
-![](docs/style-tyles-custom.png)
+![](/docs/style-tyles-custom.png)
 </figure>
