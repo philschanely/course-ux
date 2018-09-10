@@ -10,7 +10,6 @@ Perhaps it is all of these. Let's dive into our first set of content. We'll star
 
 ***Read Chapter 1 from [Garrett][garrett]***.
 
-
 ### Garrett's Elements of UX
 
 Lets learn more about the five planes of user-centered design. As a designer, you'll probably tend to think first about the way something should look. But the planes Garrett explains provide a richer context for the visual (surface) aspect.
