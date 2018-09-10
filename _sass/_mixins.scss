@@ -396,3 +396,11 @@ $code-color-26: fade-out($color-darkgrey, .5);
     }
   }
 }
+
+.figure--light {
+  background-color: white;
+  padding: 10px;
+  img {
+    max-width: 100%;
+  }
+}
