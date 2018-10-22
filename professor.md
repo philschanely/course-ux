@@ -68,4 +68,32 @@ Action items:
 
 Take exam and submit final for P1 including the process book.
 
-***More coming soon***
+### 7. Lesson 7
+
+* Engage in discussions.
+* Project Deliverable 2B: Give students head's up about user research and methods. They will greatly benefit from going into any sessions with a protocol or questionnaire rather than trying to "wing it"---and such a tool is required in the appendix for this submission.
+
+### 8. Lesson 8
+
+* Engage in discussions.
+* Project Deliverable 2C: Stress task-focused design in this deliverable. Students should be demonstrating a strong sense of key tasks users will complete in their application, even if they don't plan to prototype all of those tasks. Evaluate whether the task they've chosen to work with make sense, and seem indeed to be key features of the application.
+
+### 9. Lesson 9
+
+* Engage in discussions.
+* Project Deliverable 2D: This is similar to the previous deliverable from P1 so they should have some experience with this. Again continue to evaluate the task they're designing and the strength with which they are executing on it.
+
+### 10. Lesson 10
+
+* Engage in discussions.
+* Similar deliverables as before; its all in the execution now.
+
+### 11. Lesson 11
+
+* Engage in discussions.
+* Similar deliverables as before; its all in the execution now.
+
+### 12. Lesson 12
+
+* Engage in discussions.
+* Similar deliverables as before; its all in the execution now.
