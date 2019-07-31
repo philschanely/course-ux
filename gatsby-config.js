@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Test Course`,
-    description: `Testing a course deployment with forwarded domain.`,
+    title: `User Experience and Interface Design`,
+    description: `Learn UXD brings you a course in basic UX and interface design.`,
     author: `@philschanely`,
   },
   plugins: [
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `projects`,
-        path: `${__dirname}/src/pages/projects`,
+        name: `activities`,
+        path: `${__dirname}/src/pages/activities`,
       },
     },
     {
@@ -48,7 +48,7 @@ module.exports = {
         extensions: ['.mdx', '.md'],
         defaultLayouts: {
           default: require.resolve('./src/components/layout.js'),
-          projects: require.resolve('./src/components/layouts/activity-layout.js'),
+          activities: require.resolve('./src/components/layouts/activity-layout.js'),
           lessons: require.resolve('./src/components/layouts/activity-layout.js'),
           snippets: require.resolve('./src/components/layouts/snippet-layout.js')
         },

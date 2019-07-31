@@ -7,14 +7,12 @@ import SEO from "../components/seo";
 import Overview from "../snippets/overview";
 
 const IndexPage = ({ data }) => {
-  const projects = data.projects.edges;
+  const activities = data.activities.edges;
   const lessons = data.lessons.edges;
   return (
     <Layout>
       <SEO title="Home" />
       <Overview />
-      <p>Published: {process.env.GATSBY_REPOSITORY_URL}</p>
-      <Link to="/page-2/">Go to page 2</Link>
       <div className="group group--lessons">
         <h3>Lessons <em>{process.env.GATSBY_TEST_ENV}</em></h3>
         <ul>
@@ -33,10 +31,10 @@ const IndexPage = ({ data }) => {
           })}
         </ul>
       </div>
-      <div className="group group--projects">
-        <h3>Projects</h3>
+      <div className="group group--activities">
+        <h3>Activities</h3>
         <ul>
-          {projects.map(({ node }) => {
+          {activities.map(({ node }) => {
             const { title, type } = node.frontmatter
             return (
               <li key={node.id}>
@@ -73,7 +71,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMdx(filter: {frontmatter: {type: {eq: "projects"}}}) {
+    activities: allMdx(filter: {frontmatter: {type: {eq: "activities"}}}) {
       edges {
         node {
           excerpt
