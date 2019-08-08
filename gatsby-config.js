@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `User Experience and Interface Design`,
+    title: `UX & Interface Design`,
     description: `Learn UXD brings you a course in basic UX and interface design.`,
     author: `@philschanely`,
   },

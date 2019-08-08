@@ -9,12 +9,12 @@ function ActivityLayout({ children, pageContext }) {
       <Helmet>
         <title>{title}</title>
       </Helmet>
-      <article>
-        <header>
-          <h2>Activity: {title}</h2>
-        </header>
-        {children}
-      </article>
+      <main className="l-main l-main--lesson">
+        <h2 className="l-page-name t-display-2">{title}</h2>
+        <div className="l-content">
+          {children}
+        </div>
+      </main>
     </Layout>
   )
 };

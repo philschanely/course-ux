@@ -12,43 +12,64 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <Overview />
-      <div className="group group--lessons">
-        <h3>Lessons <em>{process.env.GATSBY_TEST_ENV}</em></h3>
-        <ul>
-          {lessons.map(({ node }) => {
-            const { title, type } = node.frontmatter
-            return (
-              <li key={node.id}>
-                <header>
-                  <h3>{title}</h3>
-                  <div>Posted in {type}</div>
-                </header>
-                <p>{node.excerpt}</p>
-                <Link to={node.fields.slug}>View Article</Link>
-              </li>
-            );
-          })}
-        </ul>
-      </div>
-      <div className="group group--activities">
-        <h3>Activities</h3>
-        <ul>
-          {activities.map(({ node }) => {
-            const { title, type } = node.frontmatter
-            return (
-              <li key={node.id}>
-                <header>
-                  <h3>{title}</h3>
-                  <div>Posted in {type}</div>
-                </header>
-                <p>{node.excerpt}</p>
-                <Link to={node.fields.slug}>View Article</Link>
-              </li>
-            );
-          })}
-        </ul>
-      </div>
+      <main className="l-main home">
+        <div className="home__intro">
+          <h2 class="home__intro-heading t-display-2 display--centered">Welcome!</h2>
+          <Overview />
+        </div>
+        <div className="home__lockups">
+          <div class="lockup-group">
+    				<h2 class="lockup-group__heading">Lessons</h2>
+    				<ul class="lockups">
+              {lessons.map(({ node }) => {
+                const { title, type } = node.frontmatter
+                return (
+                  <li key={node.id} className="lockup">
+                    <header>
+                      <h3 className="lockup__title">
+                        <Link className="lockup__title-link" to={node.fields.slug}>{title}</Link>
+                      </h3>
+                      <p className="lockup__categories">
+                        <i className="fal fa-book icon icon--display-5" />
+                        {type}
+                      </p>
+                    </header>
+                    <p className="lockup__lead">{node.excerpt}</p>
+                    <div className="lockup__banner">
+        							<img src="https://source.unsplash.com/random/800x600" />
+        						</div>
+                    <Link className="lockup__link btn" to={node.fields.slug}>Get started</Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+          <div class="lockup-group">
+    				<h2 class="lockup-group__heading">Activities</h2>
+            <ul class="lockups">
+              {activities.map(({ node }) => {
+                const { title, type } = node.frontmatter
+                return (
+                  <li key={node.id} className="lockup">
+                    <h3 className="lockup__title">
+                      <Link className="lockup__title-link" to={node.fields.slug}>{title}</Link>
+                    </h3>
+                    <p className="lockup__categories">
+                      <i className="fal fa-chess icon icon--display-5" />
+                      {type}
+                    </p>
+                    <p className="lockup__lead">{node.excerpt}</p>
+                    <div className="lockup__banner">
+        							<img src="https://source.unsplash.com/random/800x600" />
+        						</div>
+                    <Link className="lockup__link btn" to={node.fields.slug}>Get started</Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        </div>
+      </main>
     </Layout>
   );
 }
