@@ -1,44 +1,27 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
-import React from "react"
+import React from "react";
 import Helmet from 'react-helmet';
-import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import PropTypes from "prop-types";
 
-import Header from "./header"
+import Header from "./header";
 
-const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
-
+const Layout = ({ activePath, children }) => {
   return (
     <>
       <Helmet>
         <link type="text/css" rel="stylesheet" href={`${process.env.GATSBY_TOOLKIT_URL}/assets/toolkit/styles/toolkit.css`} />
       </Helmet>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Header activePath={activePath} />
       {children}
       <footer>
         <p>Details coming soon.</p>
       </footer>
     </>
-  )
+  );
 }
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
-}
+  activePath: PropTypes.string,
+};
 
-export default Layout
+export default Layout;

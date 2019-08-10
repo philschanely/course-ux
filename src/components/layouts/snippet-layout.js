@@ -1,11 +1,9 @@
 import React from 'react';
 
-function SnippetLayout({ children }) {
-  return (
-    <>
-      {children}
-    </>
-  )
-};
+const SnippetLayout = ({ children }) => (
+  <>
+    {children}
+  </>
+);
 
 export default SnippetLayout;

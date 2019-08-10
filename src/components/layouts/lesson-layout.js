@@ -2,10 +2,10 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Layout from '../layout';
 
-function ActivityLayout({ children, pageContext }) {
+function LessonLayout({ children, pageContext }) {
   const { title } = pageContext.frontmatter;
   return (
-    <Layout activePath="/activities/">
+    <Layout activePath="/lessons/">
       <Helmet>
         <title>{title}</title>
       </Helmet>
@@ -19,4 +19,4 @@ function ActivityLayout({ children, pageContext }) {
   )
 };
 
-export default ActivityLayout;
+export default LessonLayout;
