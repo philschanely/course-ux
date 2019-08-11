@@ -1,6 +1,7 @@
 ---
-layout: page
-title: "12: Risk and Reward"
+type: lessons
+number: 12
+title: "Risk and Reward"
 ---
 
 ### Risk and Reward

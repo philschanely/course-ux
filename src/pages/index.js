@@ -27,6 +27,7 @@ const IndexPage = ({ data }) => {
                 type={node.frontmatter.type}
                 slug={node.fields.slug}
                 excerpt={node.excerpt}
+                number={node.frontmatter.number}
               />
             ))}
           </LockupGroup>
@@ -52,13 +53,14 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query siteIndex {
-    lessons: allMdx(filter: {frontmatter: {type: {eq: "lessons"}}}, sort: {fields: frontmatter___title}) {
+    lessons: allMdx(filter: {frontmatter: {type: {eq: "lessons"}}}, sort: {fields: frontmatter___number}) {
       edges {
         node {
           excerpt
           frontmatter {
             title
             type
+            number
           }
           fields {
             slug

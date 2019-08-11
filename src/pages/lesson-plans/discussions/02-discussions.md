@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "2 Discussions"
+title:  "Lesson 2 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 For Lesson 2 *everyone must complete items 2.1 and 2.2* in which we practice with observation techniques. These two posts will be a little larger than a typical post and count for 3 points each this week.
 
 For the remainder, choose any of the other threads and post **once by 5pm Tuesday, and at least once more by 5pm Friday.**

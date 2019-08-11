@@ -1,8 +1,9 @@
 ---
 type: lessons
-title:  "1: Contextual Research, Affordances, and Signifiers"
+number: 1
+title:  "Contextual Research, Affordances, and Signifiers"
 ---
-### Introduction to Contextual Research
+<LessonPage title="Introduction to Contextual Research">
 
 A key goal for this class is to build your ability to understand users.
 A key to this is getting out of the office and getting spending time with people.
@@ -12,7 +13,8 @@ we'll read portions of *Contextual Design, 2nd Edition* by Karen Holtzblatt and 
 
 ***Read Chapters 1--2 from [Holtzblatt][holtz].***
 
-### Affordances and Signifiers
+</LessonPage>
+<LessonPage title="Affordances and Signifiers">
 
 Next let's switch topics a little bit to look at the "Design of Everyday Things," a concept, book, and teaching series by Don Norman, one of the great user experience designers of our time.
 
@@ -23,3 +25,5 @@ but, rather, will simply enjoy the instructional content from Norman and his col
 
 [holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
 [norman]: https://www.udacity.com/course/design101
+
+</LessonPage>

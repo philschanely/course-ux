@@ -2,13 +2,16 @@ import React from "react";
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 
-const Lockup = ({ id, slug, title, type, excerpt }) => {
+const Lockup = ({ id, slug, title, type, excerpt, number }) => {
+  let numberString = number
+    ? `${number}: `
+    : "";
   return (
     <li className="lockup">
       <header>
         <h3 className="lockup__title">
           <Link className="lockup__title-link" to={slug}>
-            {title}
+            {numberString}{title}
           </Link>
         </h3>
         <p className="lockup__categories">
@@ -35,6 +38,7 @@ Lockup.propTypes = {
   title: PropTypes.string,
   type: PropTypes.string,
   excerpt: PropTypes.string,
+  number: PropTypes.number,
 };
 
 export default Lockup;

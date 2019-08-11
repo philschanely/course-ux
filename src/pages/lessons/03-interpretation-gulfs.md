@@ -1,6 +1,7 @@
 ---
 type: lessons
-title:  "3: Interpretation, Evaluation, and Execution"
+number: 3
+title:  "Interpretation, Evaluation, and Execution"
 ---
 ### Interpreting Contextual Research
 

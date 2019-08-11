@@ -1,6 +1,7 @@
 ---
-layout: page
-title: "9: Emotional Design for Humans"
+type: lessons
+number: 9
+title: "Emotional Design for Humans"
 ---
 ### Emotional Design
 

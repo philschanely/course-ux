@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "3 Discussions"
+title:  "Lesson 3 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Post at least two times in either or both of the threads 3.1 and 3.2 **by 5pm Tuesday.** Each post is worth 2 points.
 
 Also look ahead at 3.3 and plan ahead to be sure you are pacing yourself to complete the sketching assignment described therein. **Post in that thread by 5pm Friday.** This post will count for 6 points.

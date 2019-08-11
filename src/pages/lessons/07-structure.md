@@ -1,6 +1,7 @@
 ---
 type: lessons
-title: "7: Structure"
+number: 7
+title: "Structure"
 ---
 ### Plane 3: Structure
 

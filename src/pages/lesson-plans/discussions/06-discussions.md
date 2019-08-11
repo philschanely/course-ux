@@ -1,8 +1,10 @@
 ---
 layout: page-professor
-title:  "6 Discussions"
+title:  "Lesson 6 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
 
+Answer at least three of these threads by 5pm Tuesday. Then post at least two more times by 5pm Friday.
 
 ## 6.1 Branding and UX
 

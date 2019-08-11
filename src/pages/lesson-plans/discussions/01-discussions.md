@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "1 Discussions"
+title:  "Lesson 1 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Choose at least two threads below and answer the question posed by 5pm Tuesday. Then keep an eye on these and the other threads and respond to others' posts or the professors' new questions with at least three more posts by 5pm Friday. You should have a total (minimum) of 5 posts by the end of the week.
 
 ### 1.1 Holtzblatt's Process

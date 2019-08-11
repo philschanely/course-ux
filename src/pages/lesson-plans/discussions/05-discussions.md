@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "5 Discussions"
+title:  "Lesson 5 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Post at least twice in the threads below by 5pm Tuesday. Then post at least three more times by 5pm Friday.
 
 ## 5.1 UX and Business

@@ -1,6 +1,7 @@
 ---
-layout: page
-title: "10: Personality and Emotional Engagement"
+type: lessons
+number: 10
+title: "Personality and Emotional Engagement"
 ---
 
 ### Personality

@@ -1,6 +1,7 @@
 ---
 type: lessons
-title:  "5: Garrett's Elements of UX"
+number: 5
+title:  "Garrett's Elements of UX"
 ---
 ### UX in Digital Design
 

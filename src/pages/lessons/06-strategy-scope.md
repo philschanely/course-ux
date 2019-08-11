@@ -1,6 +1,7 @@
 ---
 type: lessons
-title: "6: Strategy and Scope"
+number: 6
+title: "Strategy and Scope"
 ---
 ### Plane 1: Strategy
 

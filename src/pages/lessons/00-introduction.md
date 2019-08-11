@@ -1,6 +1,7 @@
 ---
 type: lessons
-title:  "0: Introduction"
+number: 0
+title:  "Introduction"
 ---
 ### Welcome!
 

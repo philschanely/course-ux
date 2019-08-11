@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "7 Discussions"
+title:  "Lesson 7 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Answer at least two of the following questions by 5pm Tuesday. Then answer at least three more questions or post in response to your peers or professor by 5pm Friday.
 
 ## 7.1 Understanding People in Interaction and Information Design

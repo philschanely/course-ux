@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "0 Discussions"
+title:  "Lesson 0 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Use this space for discussions from Lesson 0: Introduction. Make at least three substantive posts: at least one should be an answer to one of the thread prompts and two or more should be answers to others' posts.
 
 ### 0.1 Course Setup and Introductions

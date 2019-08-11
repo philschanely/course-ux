@@ -1,6 +1,7 @@
 ---
 type: lessons
-title:  "4: Data Reporting Methods"
+number: 4
+title:  "Data Reporting Methods"
 ---
 ### Sharing Data
 

@@ -1,7 +1,9 @@
 ---
 layout: page-professor
-title:  "4 Discussions"
+title:  "Lesson 4 Discussions"
 ---
+[&raquo; Back to Lesson Plans](/lesson-plans/)
+
 Returning to a little more of a typical pattern, this week answer at least two of the following threads by 5pm Tuesday. Then post at least three more times by 5pm Friday either in response to others or on a new thread.
 
 ### 4.1 Modeling of Data

@@ -1,6 +1,7 @@
 ---
 type: lessons
-title:  "2:  Contextual Inquiry and Conceptual Models"
+number: 2
+title:  "Contextual Inquiry and Conceptual Models"
 ---
 ### Contextual Inquiry
 

@@ -1,6 +1,7 @@
 ---
-layout: page
-title: "11: Overcoming Obstacles and Forgiveness"
+type: lessons
+number: 11
+title: "Overcoming Obstacles and Forgiveness"
 ---
 
 ### Overcoming Obstacles

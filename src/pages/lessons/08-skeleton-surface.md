@@ -1,6 +1,7 @@
 ---
 type: lessons
-title: "8: Skeleton and Surface"
+number: 8
+title: "Skeleton and Surface"
 ---
 ### Plane 4: Skeleton
 
