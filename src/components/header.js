@@ -8,7 +8,7 @@ import Brand from "./brand";
 
 const Header = ({ activePath }) => {
   const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
+    query HeaderQuery {
       site {
         siteMetadata {
           title,

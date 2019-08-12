@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import PropTypes from "prop-types";
 
 import Header from "./header";
+import Footer from "./footer";
 
 const Layout = ({ activePath, children }) => {
   return (
@@ -12,9 +13,7 @@ const Layout = ({ activePath, children }) => {
       </Helmet>
       <Header activePath={activePath} />
       {children}
-      <footer>
-        <p>Details coming soon.</p>
-      </footer>
+      <Footer />
     </>
   );
 }

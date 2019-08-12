@@ -40,14 +40,14 @@ class NavMain extends React.Component {
   				<i className="far fa-bars"></i>
   			</button>
   			<ul className="nav-main__items">
-          {this.props.pages.map(({ label, path }) => {
+          {this.props.pages.map(({ label, path }, i) => {
             let classNames = ClassNames({
               "nav-main__item": true,
               "nav-main__item--active": path === this.props.activePath
             });
 
             return (
-              <li className={classNames}>
+              <li key={i} className={classNames}>
                 <a className="nav-main__link" href={path}>{label}</a>
               </li>
             );
