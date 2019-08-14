@@ -2,9 +2,9 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const LockupGroup = ({ groupHeading, children }) => (
-  <div class="lockup-group">
-		<h2 class="lockup-group__heading">{groupHeading}</h2>
-		<ul class="lockups">
+  <div className="lockup-group">
+		<h2 className="lockup-group__heading">{groupHeading}</h2>
+		<ul className="lockups">
       {children}
     </ul>
   </div>

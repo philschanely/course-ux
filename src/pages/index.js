@@ -14,7 +14,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Home" />
       <main className="l-main home">
         <div className="home__intro">
-          <h2 class="home__intro-heading t-display-2 display--centered">Welcome!</h2>
+          <h2 className="home__intro-heading t-display-2 display--centered">Welcome!</h2>
           <Overview />
         </div>
         <div className="home__lockups">

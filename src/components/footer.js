@@ -20,14 +20,14 @@ const Footer = () => {
   `);
 
   return (
-    <footer class="footer">
-      <h2 class="footer__course-name">
+    <footer className="footer">
+      <h2 className="footer__course-name">
         {data.site.siteMetadata.title}
       </h2>
       <NavFooter pages={data.site.siteMetadata.pages} />
       <BrandFooter />
-      <p class="footer__copyright">
-        Copyright ©2019 by Phil Schanely.<br class="br--only-md" />
+      <p className="footer__copyright">
+        Copyright ©2019 by Phil Schanely.<br className="br--only-md" />
         All rights reserved.
       </p>
     </footer>
