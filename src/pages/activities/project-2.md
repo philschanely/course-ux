@@ -3,6 +3,10 @@ type: activities
 title:  "Project 2: Mobile App Prototype"
 cover: "https://source.unsplash.com/xezXEh_fIeU"
 ---
+import Subpage from "../../components/subpage.js"
+
+<Subpage slug="intro">
+
 ### Introduction
 
 For this project you must come up with an idea for a new mobile application that you and other people you know will use.
@@ -20,6 +24,9 @@ For this project you must come up with an idea for a new mobile application that
 
 As this project will involve testing make sure you choose a direction that is relevant to people to which you have ready access. A campus solution or application that meets needs of college students would be completely acceptable.
 
+</Subpage>
+<Subpage slug="a">
+
 ### Deliverable A: Proposal
 
 The proposal for this project should take on the form of a simple pitch for the application you will build. Include the following for at least two different ideas you have:
@@ -32,6 +39,9 @@ The proposal for this project should take on the form of a simple pitch for the 
 Submit your two written proposals as a single PDF file attached to the corresponding submission in Moodle.
 
 Your professor will weigh in on your proposals and work wiht you to determine one that you'll pursue for the rest of the project.
+
+</Subpage>
+<Subpage slug="b">
 
 ### Deliverable B: User Research
 
@@ -49,6 +59,9 @@ Gather your results and prepare a user research report similar to what you compl
 * Appendix of research tools (questionnaire, survey) and data collected (survey results, data from interviews, data from observations, etc.).
 
 Submit your report as a PDF attachment using the corresponding submission in Moodle.
+
+</Subpage>
+<Subpage slug="c">
 
 ### Deliverable C: Task Flow Diagrams
 
@@ -75,6 +88,9 @@ First sketch the diagram on paper in order to plan and refine the steps. Then tr
 
 Submit your diagram and updated purpose and features using the corresponding submission in Moodle.
 
+</Subpage>
+<Subpage slug="d">
+
 ### Deliverable D: Low-fidelity Wireframes and Demo Video
 
 First experiment with layout options for your site by creating thumbnail sketches of the pages you will include in your prototype set of features.
@@ -84,6 +100,9 @@ Then create larger low-fidelity wireframes (giving the impression of life-size).
 Create a quick demo video of you talking through the task and screens you will use for your testing sessions in Deliverable E. As before, post this video to YouTube.
 
 Finally, scan and combine these into a single legible PDF file and attach them to the corresponding assignment in Moodle. Also include the URL for your demo video.
+
+</Subpage>
+<Subpage slug="e">
 
 ### Deliverable E: Paper Testing Results
 
@@ -101,6 +120,9 @@ Submit a PDF report in Moodle that includes the following:
 * Summary of results
 * Revisions planned as a result of testing
 * Full protocol as an appendix
+
+</Subpage>
+<Subpage slug="f">
 
 ### Deliverable F: Styles and App Persona
 
@@ -120,6 +142,9 @@ Also create an App Persona based on what you've read in the Walter text. Aim to 
 
 Export your full submission here as a PDF file and submit in the corresponding submission in Moodle.
 
+</Subpage>
+<Subpage slug="g">
+
 ### Deliverable G: Design Comps
 
 Create the full look-and-feel for your application using artboards in Sketch and based on what you learned from your paper prototype testing.
@@ -134,6 +159,9 @@ Set up your comps as an interactive prototype using InVision.
 3. Add hotspots to simulate interaction with the application.
 
 Synchronize your designs to InVision and set up your full prototype.
+
+</Subpage>
+<Subpage slug="final">
 
 ### Final Submission
 
@@ -154,3 +182,5 @@ Create your process book for the project and be sure to include at least the fol
     * Link to the prototype in InVision
 
 Submit your Process Book in Moodle as a PDF attachment.
+
+</Subpage>

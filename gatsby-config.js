@@ -64,9 +64,9 @@ module.exports = {
       options: {
         extensions: ['.mdx', '.md'],
         defaultLayouts: {
-          default: require.resolve('./src/components/layouts/page-layout.js'),
-          activities: require.resolve('./src/components/layouts/activity-layout.js'),
-          lessons: require.resolve('./src/components/layouts/lesson-layout.js'),
+          default: require.resolve('./src/components/layouts/simple-layout.js'),
+          activities: require.resolve('./src/components/layouts/paginated-layout.js'),
+          lessons: require.resolve('./src/components/layouts/paginated-layout.js'),
           snippets: require.resolve('./src/components/layouts/snippet-layout.js')
         },
         gatsbyRemarkPlugins: [

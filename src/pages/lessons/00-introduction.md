@@ -4,6 +4,10 @@ number: 0
 title:  "Introduction"
 cover: "https://source.unsplash.com/lUtPqjz5D5k"
 ---
+import Subpage from "../../components/subpage.js"
+
+<Subpage slug="welcome">
+
 ### Welcome!
 
 This course will challenge you to push your skills as a designer as you learn more about how to understand your users.
@@ -16,9 +20,13 @@ Note that we'll use the following technologies in this course and learn more usi
 * Sketch -- License info to be provided in Moodle.
 * InVision -- Educational access code to be provided soon in Moodle.
 
+</Subpage>
+<Subpage slug="connecting">
 
 ### Connecting
 
 Let's start by considering the impact that interactive devices have made in our world by watching this video:
 
 [Connecting](http://vimeo.com/52861634)
+
+</Subpage>

@@ -4,9 +4,9 @@ number: 1
 title:  "Contextual Research, Affordances, and Signifiers"
 cover: "https://source.unsplash.com/lKlm7XfB0PY"
 ---
-import LessonPage from "../../components/lesson-page.js"
+import Subpage from "../../components/subpage.js"
 
-<LessonPage slug="contextual-research">
+<Subpage slug="contextual-research">
 
 ### Introduction to Contextual Research
 
@@ -18,8 +18,8 @@ we'll read portions of *Contextual Design, 2nd Edition* by Karen Holtzblatt and 
 
 ***Read Chapters 1--2 from [Holtzblatt][holtz].***
 
-</LessonPage>
-<LessonPage slug="affordances-and-signifiers" isActive={false}>
+</Subpage>
+<Subpage slug="affordances-and-signifiers" isActive={false}>
 
 ### Affordances and Signifiers
 
@@ -28,9 +28,9 @@ Next let's switch topics a little bit to look at the "Design of Everyday Things,
 Sign up for Udacity for free and begin [this course by Don and his colleagues][norman]. ***Watch through the content in Lesson 1.***
 
 Note that the videos will introduce a "course" that we're not going to complete in full,
-but, rather, will simply enjoy the instructional content from Norman and his colleagues.  
+but, rather, will simply enjoy the instructional content from Norman and his colleagues.
+
+</Subpage>
 
 [holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
 [norman]: https://www.udacity.com/course/design101
-
-</LessonPage>

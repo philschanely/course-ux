@@ -3,6 +3,10 @@ type: activities
 title:  "Project 1: Site Redesign"
 cover: "https://source.unsplash.com/abkEAOjnY0s"
 ---
+import Subpage from "../../components/subpage.js"
+
+<Subpage slug="intro">
+
 ### Introduction
 
 For this project you must choose a site that you as a user found was particularly out of sync with how you expected it to function. A key here is to focus on one or more tasks that were hard to accomplish because of a lack of user-centered design for the site.
@@ -20,6 +24,9 @@ You must then plan and redesign at least two significant improvements based on w
       You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project.
       You will then compile these into a neatly-formatted process book.
 
+</Subpage>
+<Subpage slug="a">
+
 ### Deliverable A: Proposal
 
 Propose a site you will redesign and include the following:
@@ -28,6 +35,9 @@ Propose a site you will redesign and include the following:
 * Brief vision for how you might address these concerns and make the task easier to accomplish.
 
 Submit this information in the corresponding assignment dropbox in Moodle.
+
+</Subpage>
+<Subpage slug="b">
 
 ### Deliverable B: User Research
 
@@ -46,6 +56,9 @@ In this deliverable you'll get a sense of what other users think of the same sit
         * To build these, start by reviewing your original goals. Consider how user research affected these. Then write 2--5 goals as a result.
         * Be sure to phrase them around improving the user experience in some fashion. This can be subtle but important for stressing user-centered design from the start.
 
+</Subpage>
+<Subpage slug="c">
+
 ### Deliverable C: Paper Prototype and Video Walkthrough
 
 First experiment with layout options and arrangement of content elements for your site by creating hand-drawn thumbnail sketches of the pages or components you will redesign.
@@ -57,6 +70,9 @@ Create only the wireframes you need in order to demonstrate a complete user task
 Next record a quick walk through of your paper prototype that demonstrates the user task you expect to accomplish through the prototype. This is easy to create with most cell phones today. You can post your video to any common video site such as YouTube (especially easy using your Cedarville Google access to YouTube). Set the privacy as desired as long as you can share the link with your professor through this assignment submission in Moodle.
 
 Submit the link to your video walkthrough and attach digital scans/images of your wireframes combined and compressed in a single PDF document to the corresponding assignment in Moodle.
+
+</Subpage>
+<Subpage slug="d">
 
 ### Deliverable D: Paper Prototype User Test
 
@@ -77,6 +93,9 @@ Submit a PDF report in Moodle that includes the following:
 
 See this [sample report](/docs/sample-user-testing-report.pdf) and borrow any of the language and formatting you'd like.
 
+</Subpage>
+<Subpage slug="e">
+
 ### Deliverable E: High-fidelity Wireframes and Style Tiles
 
 Based on what you learned during user testing, move into Sketch and create grey-box, high fidelity wireframes of your page layouts.
@@ -94,6 +113,9 @@ Next create style tiles for your website direction. Create at least two options 
 * For typography change not only the fonts but also sizes, spacing, color, weither, etc. in order to ensure the appropriate contrast between each level while also maintaining a sense of unity.
 
 Export your artboards from Sketch as PDFs and combine into a single PDF to submit in the corresponding submission in Moodle.
+
+</Subpage>
+<Subpage slug="f">
 
 ### Deliverable F: Design Comps and prototype Setup
 
@@ -119,6 +141,9 @@ Otherwise, on your own computer, while logged in to InVision in a new tab in you
 
 Use InVision to add hotspots to your screens that you synchronized via Craft. Be sure that your prototype functions as expected based on the goals you set for your redesign.
 
+</Subpage>
+<Subpage slug="final">
+
 ### Final Submission
 
 Make any final revisions you need to make to your project and prototype in InVision based on feedback. Be sure your most current version is set up and polished in InVision.
@@ -138,3 +163,5 @@ Create your process book for the project and be sure to include at least the fol
     * Link to the prototype in InVision
 
 Submit your Process Book in Moodle as a PDF attachment.
+
+</Subpage>

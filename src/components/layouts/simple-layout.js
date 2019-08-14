@@ -2,14 +2,18 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Layout from '../layout';
 
-function ActivityLayout({ children, pageContext }) {
-  const { title } = pageContext.frontmatter;
+function SimpleLayout({ children, pageContext }) {
+  const { title, navPath } = pageContext.frontmatter;
+  let activePath = navPath || "/";
+
+  console.log(activePath);
+
   return (
-    <Layout activePath="/activities/">
+    <Layout activePath={activePath}>
       <Helmet>
         <title>{title}</title>
       </Helmet>
-      <main className="l-main l-main--lesson">
+      <main className="l-main l-main--page">
         <h2 className="l-page-name t-display-2">{title}</h2>
         <div className="l-content">
           {children}
@@ -19,4 +23,4 @@ function ActivityLayout({ children, pageContext }) {
   )
 };
 
-export default ActivityLayout;
+export default SimpleLayout;
