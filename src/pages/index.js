@@ -19,9 +19,9 @@ const IndexPage = ({ data }) => {
         </div>
         <div className="home__lockups">
           <LockupGroup groupHeading="Lessons">
-            {data.lessons.edges.map(({ node }) => (
+            {data.lessons.edges.map(({ node }, i) => (
               <Lockup
-                key={node.id}
+                key={i}
                 id={node.id}
                 title={node.frontmatter.title}
                 type={node.frontmatter.type}
@@ -33,9 +33,9 @@ const IndexPage = ({ data }) => {
             ))}
           </LockupGroup>
           <LockupGroup groupHeading="Activities">
-            {data.activities.edges.map(({ node }) => (
+            {data.activities.edges.map(({ node }, i) => (
               <Lockup
-                key={node.id}
+                key={i}
                 id={node.id}
                 title={node.frontmatter.title}
                 type={node.frontmatter.type}
