@@ -2,6 +2,7 @@
 type: lessons
 number: 9
 title: "Emotional Design for Humans"
+cover: "https://source.unsplash.com/UOwvwZ9Dy6w"
 ---
 ### Emotional Design
 

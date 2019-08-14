@@ -28,6 +28,7 @@ const IndexPage = ({ data }) => {
                 slug={node.fields.slug}
                 excerpt={node.excerpt}
                 number={node.frontmatter.number}
+                cover={node.frontmatter.cover}
               />
             ))}
           </LockupGroup>
@@ -40,6 +41,7 @@ const IndexPage = ({ data }) => {
                 type={node.frontmatter.type}
                 slug={node.fields.slug}
                 excerpt={node.excerpt}
+                cover={node.frontmatter.cover}
               />
             ))}
           </LockupGroup>
@@ -61,6 +63,7 @@ export const pageQuery = graphql`
             title
             type
             number
+            cover
           }
           fields {
             slug
@@ -75,6 +78,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             type
+            cover
           }
           fields {
             slug

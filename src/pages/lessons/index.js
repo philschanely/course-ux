@@ -21,6 +21,7 @@ const LessonsIndexPage = ({ data }) => (
               slug={node.fields.slug}
               excerpt={node.excerpt}
               number={node.frontmatter.number}
+              cover={node.frontmatter.cover}
             />
           ))}
         </LockupGroup>
@@ -41,6 +42,7 @@ export const pageQuery = graphql`
             title
             type
             number
+            cover
           }
           fields {
             slug

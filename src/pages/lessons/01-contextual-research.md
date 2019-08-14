@@ -2,6 +2,7 @@
 type: lessons
 number: 1
 title:  "Contextual Research, Affordances, and Signifiers"
+cover: "https://source.unsplash.com/lKlm7XfB0PY"
 ---
 import LessonPage from "../../components/lesson-page.js"
 

@@ -2,6 +2,7 @@
 type: lessons
 number: 12
 title: "Risk and Reward"
+cover: "https://source.unsplash.com/z0nVqfrOqWA"
 ---
 
 ### Risk and Reward

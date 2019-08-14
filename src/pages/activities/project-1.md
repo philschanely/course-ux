@@ -1,6 +1,7 @@
 ---
 type: activities
 title:  "Project 1: Site Redesign"
+cover: "https://source.unsplash.com/abkEAOjnY0s"
 ---
 ### Introduction
 

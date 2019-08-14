@@ -2,6 +2,7 @@
 type: lessons
 number: 5
 title:  "Garrett's Elements of UX"
+cover: "https://source.unsplash.com/IGqMKnl6LNE"
 ---
 ### UX in Digital Design
 

@@ -2,6 +2,7 @@
 type: lessons
 number: 10
 title: "Personality and Emotional Engagement"
+cover: "https://source.unsplash.com/Q_Sei-TqSlc"
 ---
 
 ### Personality

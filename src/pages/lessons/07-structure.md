@@ -2,6 +2,7 @@
 type: lessons
 number: 7
 title: "Structure"
+cover: "https://source.unsplash.com/26MJGnCM0Wc"
 ---
 ### Plane 3: Structure
 

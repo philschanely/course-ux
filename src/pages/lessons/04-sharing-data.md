@@ -2,6 +2,7 @@
 type: lessons
 number: 4
 title:  "Data Reporting Methods"
+cover: "https://source.unsplash.com/bjemWZcNF34"
 ---
 ### Sharing Data
 

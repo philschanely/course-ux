@@ -1,6 +1,7 @@
 ---
 type: activities
 title:  "Project 2: Mobile App Prototype"
+cover: "https://source.unsplash.com/xezXEh_fIeU"
 ---
 ### Introduction
 

@@ -2,6 +2,7 @@
 type: lessons
 number: 11
 title: "Overcoming Obstacles and Forgiveness"
+cover: "https://source.unsplash.com/KQCXf_zvdaU"
 ---
 
 ### Overcoming Obstacles

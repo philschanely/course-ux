@@ -2,6 +2,7 @@
 type: lessons
 number: 6
 title: "Strategy and Scope"
+cover: "https://source.unsplash.com/fzOITuS1DIQ"
 ---
 ### Plane 1: Strategy
 

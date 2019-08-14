@@ -2,6 +2,7 @@
 type: lessons
 number: 2
 title:  "Contextual Inquiry and Conceptual Models"
+cover: "https://source.unsplash.com/YXemfQiPR_E"
 ---
 ### Contextual Inquiry
 

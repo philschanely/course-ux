@@ -1,6 +1,7 @@
 ---
 type: activities
 title: "Interactive Design Manifesto Paper"
+cover: "https://source.unsplash.com/xG8IQMqMITM"
 ---
 
 ### Background

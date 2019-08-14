@@ -2,6 +2,7 @@
 type: lessons
 number: 0
 title:  "Introduction"
+cover: "https://source.unsplash.com/lUtPqjz5D5k"
 ---
 ### Welcome!
 

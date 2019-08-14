@@ -2,10 +2,14 @@ import React from "react";
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 
-const Lockup = ({ id, slug, title, type, excerpt, number }) => {
+const Lockup = ({ id, slug, title, type, excerpt, number, cover }) => {
   let numberString = number
     ? `${number}: `
     : "";
+
+  let coverSrc = cover || "https://source.unsplash.com/abkEAOjnY0s";
+  coverSrc += "/420x420";
+
   return (
     <li className="lockup">
       <header>
@@ -23,7 +27,7 @@ const Lockup = ({ id, slug, title, type, excerpt, number }) => {
         {excerpt}
       </p>
       <div className="lockup__banner">
-        <img src="https://source.unsplash.com/random/800x600" alt="" />
+        <img src={coverSrc} alt="" />
       </div>
       <Link className="lockup__link btn" to={slug}>
         Get started

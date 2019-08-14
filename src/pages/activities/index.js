@@ -20,6 +20,7 @@ const ActivitiesIndexPage = ({ data }) => (
               type={node.frontmatter.type}
               slug={node.fields.slug}
               excerpt={node.excerpt}
+              cover={node.frontmatter.cover}
             />
           ))}
         </LockupGroup>
@@ -39,6 +40,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             type
+            cover
           }
           fields {
             slug
