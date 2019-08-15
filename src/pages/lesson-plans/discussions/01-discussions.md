@@ -4,7 +4,10 @@ title:  "Lesson 1 Discussions"
 ---
 [&raquo; Back to Lesson Plans](/lesson-plans/)
 
-Choose at least two threads below and answer the question posed by 5pm Tuesday. Then keep an eye on these and the other threads and respond to others' posts or the professors' new questions with at least three more posts by 5pm Friday. You should have a total (minimum) of 5 posts by the end of the week.
+Make at least 5 substantive posts for this lesson's threads as follows:
+
+- Reply to at least 2 of the numbered questions posed in the threads below by 5pm Tuesday.
+- Then keep an eye on these and the other threads and respond to other students' posts or the professor's new questions with at least 3 more replies by 5pm Friday.
 
 ### 1.1 Holtzblatt's Process
 

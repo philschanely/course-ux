@@ -17,9 +17,9 @@ On one hand you have **user interviews** to conduct for your project. Consider t
 * *Focus on observation.* Once you actually do start working with the existing interface, be careful not to be too "hands on." Give your user a relevant, appropriately specific goal or task, and then sit back and watch. Don't correct them or steer them; your goal is to learn by watching. You will be tempted if not simply biased to aim them towards where you think you want to go with your redesign. But this is an opportunity to practice what we're learning in this class and put yourself out of the picture for a bit.
 * *Consider working with non-designers if at all possible.* Staying inside the "design bubble" will limit the kind of feedback you get. Strive to get feedback from a likely audience for your site, or otherwise from a variety of sources.
 
-On the other hand, for **the forums this week we have a little different structure.** Be sure to look at the details there and make time to accomplish the activities well to gain the most from them. Generally, you get to practice putting distractions aside and just observing people. I hope you find this an enlightening exercise!
+On the other hand **the discussions this week have a little different structure from last week.** Be sure to look at the details there and make time to accomplish the activities well in order to gain the most from them. Generally, you get to practice putting distractions aside and just observing people. I hope you find this an enlightening exercise!
 
-Looking forward to seeing how things go in the forums and in your deliverable submission later this week! Feel free to stop by open lab tonight in TYL 107 8-10pm if you have any questions or concerns you'd like to address in person.
+Looking forward to seeing how things go in the forums and in your deliverable submission later this week! Feel free to reach out if you have any questions or concerns.
 
 Best,
 ***[BBB---Prof name]***

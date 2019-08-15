@@ -9,20 +9,14 @@ import Subpage from "../../components/subpage.js"
 
 ### Introduction
 
-For this project you must choose a site that you as a user found was particularly out of sync with how you expected it to function. A key here is to focus on one or more tasks that were hard to accomplish because of a lack of user-centered design for the site.
+For this project you must choose a site that you as a user thought was particularly out of sync with how you expected it to function. A key here is to focus on one or more tasks that were hard to accomplish because of a lack of user-centered design for the site.
 
-You must then plan and redesign at least two significant improvements based on what you've learned in first part of the course.
+You must then plan and redesign at least two significant improvements based on what you've learned in the first part of the course.
 
-* Scope --
-  You do not need to code this site or even design every page of the site.
-  However you must consider the how the elements you're aiming to address impact other aspects of the site and account for this in your redesign.
-* Final format --
-  You will create two final components for this project:
-    * Prototype site --
-      You will use InVision to create a simulation of the redesigned website including at least three screens.
-    * Process book --
-      You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project.
-      You will then compile these into a neatly-formatted process book.
+* **Scope --** You do not need to code this site or even design every page of the site. However you must consider how the elements you're aiming to address impact other aspects of the site and account for this in your redesign. The portions you choose should feel complete and unified.
+* **Final format --** You will create two final components for this project:
+    * *Prototype site --* You will use InVision to create a simulation of the redesigned website including at least three screens.
+    * *Process book --* You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project. You will then compile these into a neatly-formatted process book.
 
 </Subpage>
 <Subpage slug="a">
@@ -31,21 +25,19 @@ You must then plan and redesign at least two significant improvements based on w
 
 Propose a site you will redesign and include the following:
 
-* At least two aspects of the site that you find jarring, a hassle, or just out of sync with your expectations. Again, make sure to identify one or more distinct tasks that were hard to accomplish.
-* Brief vision for how you might address these concerns and make the task easier to accomplish.
-
-Submit this information in the corresponding assignment dropbox in Moodle.
+* At least two aspects of the site that you find jarring, a hassle, or just out of sync with your expectations. Again, make sure to identify these as distinct tasks that were hard to accomplish.
+* A brief vision for how you might address these concerns and make the tasks easier for users to accomplish.
 
 </Subpage>
 <Subpage slug="b">
 
 ### Deliverable B: User Research
 
-In this deliverable you'll get a sense of what other users think of the same site. Use what you've learned about contextual research to conduct at least five interviews with users.
+In this deliverable you'll get a sense of what other users think of the site and tasks you've selected to improve. Use what you've learned about contextual research to conduct sessions *with at least 5 users*.
 
-* Ideally each interview should be a contextual inquiry interview involving active intervention (observing, interpretting, etc.).
-* At the least, conduct a structured use-case session where you determine a set of tasks and questions for the user in advance, then walk through the questions with them, and observe as they try to complete the tasks.
-* Record data from each session. Then work to synthesize the data into a user testing report that includes the following:
+* Ideally each session should be a contextual inquiry interview involving active intervention (observing, interpretting, etc.).
+* At the least, conduct a structured use-case session where you determine a set of tasks and questions for the user *in advance.* Then walk through the prompts with them and observe as they try to complete the tasks.
+* Record data from each session. Then synthesize the data into a user testing report that includes the following:
     * *Research overview:*
         * Number of sessions you conducted
         * Generally speaking, the nature/structure of each session
@@ -61,15 +53,15 @@ In this deliverable you'll get a sense of what other users think of the same sit
 
 ### Deliverable C: Paper Prototype and Video Walkthrough
 
-First experiment with layout options and arrangement of content elements for your site by creating hand-drawn thumbnail sketches of the pages or components you will redesign.
+As discussed in course lessons, first experiment with layout options and arrangement of content elements for your project by creating hand-drawn thumbnail sketches of the pages or components you will redesign. Think through the complete task you're trying to improve and imagine interacting with your sketches.
 
 Then create larger low-fidelity wireframes (giving the impression of life-size) on paper. These will be used in the next deliverable as you conduct usability tests.
 
-Create only the wireframes you need in order to demonstrate a complete user task. Keep in mind you can also use smaller pieces of paper and other materials to simulate modal windows, tabbed panels, etc. This also means you will need to include snippets of actual content; you can type and print these but then cut and paste them into your hand-drawn wireframes where necessary.
+Create only the wireframes you need in order to demonstrate the complete tasks. Keep in mind you can also use smaller pieces of paper and other materials to simulate modal windows, tabbed panels, etc. This also means you will need to include snippets of actual content; you can type and print these but then cut and paste them into your hand-drawn wireframes where necessary.
 
-Next record a quick walk through of your paper prototype that demonstrates the user task you expect to accomplish through the prototype. This is easy to create with most cell phones today. You can post your video to any common video site such as YouTube (especially easy using your Cedarville Google access to YouTube). Set the privacy as desired as long as you can share the link with your professor through this assignment submission in Moodle.
+Next record a quick walk through of your paper prototype that demonstrates the user task you expect to accomplish through the prototype. This is easy to create with most cell phones today. You can post your video to any common video site such as YouTube (especially easy using your university Google access to YouTube). Set the privacy as desired as long as you can share the link with your professor through this assignment submission.
 
-Submit the link to your video walkthrough and attach digital scans/images of your wireframes combined and compressed in a single PDF document to the corresponding assignment in Moodle.
+Be prepared to submit scanned PDFs of your prototype along with the link to your demonstration video.
 
 </Subpage>
 <Subpage slug="d">
