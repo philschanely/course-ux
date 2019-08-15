@@ -49,7 +49,7 @@ Above all, keep in mind that this course is about User Experience... and as we t
 
 [Discussion prompts](/lesson-plans/discussions/01-discussions/)
 
-Project deliverable 1A: Look to ensure students are considering more than just visual aspects but truuly task-oriented, navigational, or labeling issues with their proposed site. Steer any misplaced plans toward these or encourage students to choose different topics.
+Project deliverable 1A: Look to ensure students are considering more than just visual aspects but truly task-oriented, navigational, or labeling issues with their proposed site. Steer any misplaced plans toward these or encourage students to choose different topics.
 
 </div>
 <div class="lesson-plan__tasks">
@@ -57,7 +57,7 @@ Project deliverable 1A: Look to ensure students are considering more than just v
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/01-lesson-1/) at start of week to remind of upcoming stuffs.
-* [ ] Review participation from the previous week and complete the Roster Verification the Office of Registrar likely sent out. Any students who either didn't complete the required intro activities may be marked as "absent".
+* [ ] Review participation from the previous week and complete the Roster Verification the Office of Registrar likely sent out. Any students who didn't complete the intro activities may be marked as "absent".
 * [ ] Engage in discussions.
 
 </div>
@@ -74,7 +74,7 @@ Project deliverable 1A: Look to ensure students are considering more than just v
 
 This week involves a different kind of activity in the discussions, the Observation Exercise. Be sure to be familiar with it.
 
-Project deliverable 1B: As before, look to ensure students are focusing on specific tasks for their users to accomplish (and consider whether the tasks are practical, likely tasks for the actual audience).
+Project deliverable 1B: As before, look to ensure students are focusing on specific tasks for their users to accomplish (and consider whether the tasks are practical, likely tasks for the actual audience). They should also begin to demonstrate a developing user-centered mindset.
 
 </div>
 <div class="lesson-plan__tasks">

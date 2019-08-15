@@ -4,7 +4,7 @@ layout: page-professor
 ---
 [&raquo; Back to Lesson Plans](/lesson-plans/)
 
-Dear Students,
+Dear Students, 
 
 Great work this week folks. ***[AAA---Short debrief or grading status]***
 

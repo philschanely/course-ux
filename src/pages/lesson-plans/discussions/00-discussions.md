@@ -4,13 +4,18 @@ title:  "Lesson 0 Discussions"
 ---
 [&raquo; Back to Lesson Plans](/lesson-plans/)
 
-Use this space for discussions from Lesson 0: Introduction. Make at least three substantive posts: at least one should be an answer to one of the thread prompts and two or more should be answers to others' posts.
+Make at least three substantive posts for this lesson's threads as follows:
+
+- Post one answer in 0.1.
+- Post one answer in 0.2.
+- Post at least one additional reply to another student's post in either thread.
 
 ### 0.1 Course Setup and Introductions
 
 Introduce yourself to the class.
 
-What exposure have you had to the field of "user experience?"
+- What is your major, year of study, and intended career after graduation?
+- What exposure have you had to the field of “user experience?”
 
 As needed, share any questions or concerns you have as you get set up for this course.
 

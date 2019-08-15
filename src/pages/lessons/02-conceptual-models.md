@@ -21,7 +21,7 @@ Now we'll turn back to the Holtzblatt text to learn more about methods of contex
 
 Next lets continue our course from Udacity and learn about conceptual models.
 
-***Complete lesson 2 from [the Udacity course][norman].***
+***Complete lesson 2 from [the Udacity course][norman].*** 
 
 </Subpage>
 
