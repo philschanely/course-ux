@@ -1,4 +1,5 @@
 import React from 'react';
+import { navigate } from 'gatsby';
 import Helmet from 'react-helmet';
 import ClassNames from 'classnames';
 
@@ -85,17 +86,25 @@ class PaginatedLayout extends React.Component {
   }
 
   onClickNavItem(e, slug) {
+    e.preventDefault();
     let { navItems } = this.state;
+    let currentPath = this.props.location.pathname;
+
+    console.log('clicked', slug, currentPath);
+
 
     if (navItems.length < 1) {
       return;
     }
+
     // Loop through nav items to set the appropriate item as active (and others not)
     navItems.forEach((item, index) => {
       item.isActive = slug === item.slug;
     });
 
-    this.setState({ navItems });
+    this.setState({ navItems }, () => {
+      navigate(currentPath + "#" + slug);
+    });
   }
 
   render() {

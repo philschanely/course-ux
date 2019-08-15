@@ -12,9 +12,9 @@ const ActivitiesIndexPage = ({ data }) => (
     <main className="l-main page">
       <div className="page__lockups">
         <LockupGroup groupHeading="Activities">
-          {data.activities.edges.map(({ node }) => (
+          {data.activities.edges.map(({ node }, i) => (
             <Lockup
-              key={node.id}
+              key={i}
               id={node.id}
               title={node.frontmatter.title}
               type={node.frontmatter.type}
