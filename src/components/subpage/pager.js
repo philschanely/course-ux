@@ -1,5 +1,5 @@
-import React from 'react';
-// import { Link } from 'gatsby';
+import React from "react";
+
 import ClassNames from "classnames";
 
 const SubpagePager = ({ hasSubpages, nextPageSlug, prevPageSlug, onClickPager }) => {

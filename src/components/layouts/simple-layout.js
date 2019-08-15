@@ -1,12 +1,10 @@
-import React from 'react';
-import Helmet from 'react-helmet';
-import Layout from '../layout';
+import React from "react";
+import Helmet from "react-helmet";
+import Layout from "../layout";
 
 function SimpleLayout({ children, pageContext }) {
   const { title, navPath } = pageContext.frontmatter;
   let activePath = navPath || "/";
-
-  console.log(activePath);
 
   return (
     <Layout activePath={activePath}>
@@ -20,7 +18,7 @@ function SimpleLayout({ children, pageContext }) {
         </div>
       </main>
     </Layout>
-  )
+  );
 };
 
 export default SimpleLayout;

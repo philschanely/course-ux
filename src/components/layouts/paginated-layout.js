@@ -1,12 +1,12 @@
-import React from 'react';
-import { navigate } from 'gatsby';
-import Helmet from 'react-helmet';
-import ClassNames from 'classnames';
+import React from "react";
+import { navigate } from "gatsby";
+import Helmet from "react-helmet";
+import ClassNames from "classnames";
 
-import Layout from '../layout';
-import SubpageContainer from '../subpage/container';
-import SubpageNavigation from '../subpage/navigation';
-import SubpagePager from '../subpage/pager';
+import Layout from "../layout";
+import SubpageContainer from "../subpage/container";
+import SubpageNavigation from "../subpage/navigation";
+import SubpagePager from "../subpage/pager";
 
 class PaginatedLayout extends React.Component {
 
@@ -48,6 +48,7 @@ class PaginatedLayout extends React.Component {
             isActive
           });
         }
+
         isFirst = false;
       });
     } else if (this.props.children.props.mdxType === "Subpage") {
@@ -87,11 +88,9 @@ class PaginatedLayout extends React.Component {
 
   onClickNavItem(e, slug) {
     e.preventDefault();
+
     let { navItems } = this.state;
     let currentPath = this.props.location.pathname;
-
-    console.log('clicked', slug, currentPath);
-
 
     if (navItems.length < 1) {
       return;
@@ -132,7 +131,7 @@ class PaginatedLayout extends React.Component {
     );
 
     const mainStyles = {
-       "--cover": `url('${cover}/1600x1600')`
+       "--cover": `url("${cover}/1600x1600")`
     };
 
     return (
@@ -150,7 +149,5 @@ class PaginatedLayout extends React.Component {
     );
   }
 };
-
-// { children, pageContext }
 
 export default PaginatedLayout;
