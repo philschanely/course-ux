@@ -1,6 +1,6 @@
 {
   "name": "course-ux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UX Course for Learn UXD built with Gatsby",
   "main": "index.js",
   "dependencies": {
