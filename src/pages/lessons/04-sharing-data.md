@@ -19,9 +19,9 @@ So far we've learned a number of helpful things from Holtzblatt, et. al. regardi
 
 ### Data Modeling methods
 
-To complete our initial study of Contextual Design let's survey the next three chapters in which Holtzblatt, et. al. describe three different types or categories of modeling data discovered during contextual research.
+To complete our initial study of contextual research let's survey the next three chapters in which Holtzblatt, et. al. describe three different types or categories of modeling data discovered during contextual research.
 
-***Read Chapters 6--8 from [Holtzblatt][holtz].***
+***Skim Chapters 6--8 from [Holtzblatt][holtz].***
 
 </Subpage>
 

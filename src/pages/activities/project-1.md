@@ -70,17 +70,17 @@ Be prepared to submit scanned PDFs of your prototype along with the link to your
 
 Make any updates needed in order to prepare your low-fidelity wireframes for user testing based on feedback from your professor.
 
-Then conduct *at least five* user test sessions with your wireframes.
+Then conduct *at least 5* user test sessions with your wireframes.
 
-1. Develop a protocol in advance that you can use to prompt users to complete important/key tasks with the interface. *(See the one attached to the provided sample report below).*
+1. Develop a protocol *in advance* that you can use to prompt users to complete important/key tasks with the interface. *(See the one attached to the provided sample report below).*
 2. During the test simulate the likely changes to the interface by changing the page or adding layovers using techniques discussed in class.
 3. Take minimal notes of observations during the test, but be sure to write complete notes afterwards.
 
-Submit a PDF report in Moodle that includes the following:
+Prepare a PDF report to submit that includes the following:
 
-* Overview of testing protocol
+* Overview of testing procedure
 * Summary of results
-* Revisions planned as a result of testing
+* Revisions or updates planned as a result of testing
 * Full protocol as an appendix
 
 See this [sample report](/docs/sample-user-testing-report.pdf) and borrow any of the language and formatting you'd like.
