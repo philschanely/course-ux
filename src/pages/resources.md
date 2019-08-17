@@ -37,7 +37,7 @@ In our courses we use InVision for design review, critique, and feedback.
   As we will be using the Craft plugin to synchronize design comps from Sketch to a project in InVision your professor will use InVision’s commenting feature to provide feedback. Here is an overview of the typical process:
 
     1. Add your professor as a collaborator on the project in InVision.
-    2. Use the provided submission in Moodle to indicate that you’re ready for feedback or have completed the assignment.
+    2. Use the provided submission to indicate that you’re ready for feedback or have completed the assignment.
     3. Your professor will use the comment and workflow tools to provide feedback on any screens.
     4. You can review feedback by clicking on the project and then the Comments tab. Your professor might also use the Workflow tool to further amplify this process, so watch for announcements about this feature.
 

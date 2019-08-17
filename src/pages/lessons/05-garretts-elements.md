@@ -12,7 +12,7 @@ import Subpage from "../../components/subpage.js"
 
 Above all, this course is about effective design of interactive solutions. But how do we determine whether something is "effective?" Is it a matter of making profit? Is it about a complete and functional product or solution? Or is it about the experience our users have with the solution?
 
-Perhaps it is all of these. Let's dive into our first set of content. We'll start with the Garrett text.
+Perhaps it is all of these. Let's dive into our first set of content from Jesse James Garrett's text, *The Elements of User Experience*.
 
 ***Read Chapter 1 from [Garrett][garrett]***.
 
@@ -32,11 +32,17 @@ Our project processes in this course will largely mirror the planes outlined her
 
 ### Planning Visual Style
 
-While we stress thorough planning of our interactive solutions using user-centered design, research, and loose deliverables such as wireframes, we can also plan our visual style elements before we actually create mockups. Style Tiles are a tool for accomplishing this. Hopefully you've been introduced to this in previous classes, but the original idea is document at [http://styletil.es/](http://styletil.es/). We provide a Sketch template for style tiles in the project deliverables.
+While we stress thorough planning of our interactive solutions using user-centered design, research, and loose deliverables such as wireframes, we can also plan our visual style elements before we actually create mockups. Style Tiles are a tool for accomplishing this. Hopefully you've been introduced to this in previous classes, but the original idea is documented at [http://styletil.es/](http://styletil.es/). We provide a Sketch template for style tiles in the project deliverables.
+
+#### Crucial  Notes on Color
 
 Colors in interactive design present some new aspects you might not be used to planning. In interactive work we rarely can make a usable solution with just a color or two. Inevitably we need some different colors to draw attention to different aspects or states of components in our system. At the least, this can include a "success" color (often in the green range) and a "danger" color (often on the warm end of the range). At the end what is often helpful to do for interactive design is to *select a complete family of colors.* This way you get the full palette in front of your stakeholders for signoff even if you really expect to just use a few select colors according to common design practice. So while the style tile template we provide in this class allowed for several optional color panels I'd like to see you all use these more intentionally.
 
 Along these lines, what we also often see is students using one or more panels to display several very similar colors. Please avoid this! We believe it goes without saying that a given hue might be used at various tints or shades. We have sometimes taken to showing these variations in smaller thumb tiles below the main tile. See the examples below. Don't waste space showing several similar hues; make each choice interesting, purposeful, and distinct.
+
+Here is a sample of a thorough color palette:
+
+![](/images/color-examples.png)
 
 Focusing in on the four "required" color panels for a moment:
 
@@ -49,15 +55,15 @@ Last of all, *show these colors in your type samples below the color panels* Put
 
 **Sample 1: USACE Careers Style Tiles**
 
-![](/docs/style-tiles-usace.png)
+![](/images/style-tiles-usace.png)
 
 **Sample 2: Bereans at the Gate Style Tiles**
 
-![](/docs/style-tiles-bereans.png)
+![](/images/style-tiles-bereans.png)
 
 **Sample 3: Custom UI Style Tiles**
 
-![](/docs/style-tiles-custom.png)
+![](/images/style-tiles-custom.png)
 
 </Subpage>
 
