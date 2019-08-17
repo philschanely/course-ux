@@ -82,6 +82,7 @@ Project deliverable 1B: As before, look to ensure students are focusing on speci
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/02-lesson-2/) at start of week to remind of upcoming activities, particularly the different activity mentioned above.
+* [ ] Grade P1A (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -106,6 +107,7 @@ Project Deliverable 1C: Wireframes should be **LOW FIDELITY** but true wireframe
 #### Action items:
 
 * [ ] Send [announcement](/lesson-plans/announcements/03-lesson-3/) at start of week to remind of upcoming activities, particularly the different one mentioned above.
+* [ ] Grade P1B (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -130,6 +132,7 @@ Project Deliverable 1D: Looking now for them to have tested their wireframe and 
 #### Action items:
 
 * [ ] Send [announcement](/lesson-plans/announcements/04-lesson-4/) at start of week
+* [ ] Grade P1C (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -155,6 +158,8 @@ Project Deliverable 1E: Now we can move into using digital tools such as Sketch 
 
 * [ ] Send [announcement](/lesson-plans/announcements/05-lesson-5/) at start of week
 * [ ] Send [sketch announcement](/lesson-plans/announcements/05b-sketch/) at start of week
+* [ ] Send [invision announcement](/lesson-plans/announcements/05c-invision/) at start of week
+* [ ] Grade P1D (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -171,23 +176,38 @@ Project Deliverable 1E: Now we can move into using digital tools such as Sketch 
 
 Project Deliverable 1F: First Sketch deliverable that we sync to InVision. Looking now to give detailed feedback on visual style, but keeping in mind the tasks users are aiming to accomplish and how the visual style assists/improves versus detracts. More feedback now saves time on the final submission and gives students a chance to earn best grade possible.
 
+Next week is a big week that we'll foreshadow for folks in this week's announcement: the final deliverable is due next week; the midterm exam is next week; and Project Deliverable 2A is due next week.
+
 </div>
 <div class="lesson-plan__tasks">
 
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/06-lesson-6/) at start of week
-* [ ] Give students head's up about process book portion that is due with the final submission of the project; they would be wise to start compiling this now if they haven't already.
+* [ ] Grade P1E (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
 </div>
+<div class="lesson-plan">
 
 ### Exam week
 
-Take exam and submit final for P1 including the process book.
+<div class="lesson-plan__notes">
 
+Students take the midterm exam and submit final for P1 including the process book. They also need to submit their proposals for P2.
 
+</div>
+<div class="lesson-plan__tasks">
+
+#### Action items
+
+* [ ] Send [announcement](/lesson-plans/announcements/midterm/) at start of week
+* [ ] Grade P1F (last lesson deliverable)
+* [ ] Try to stay on top exam, P1 final, and P2A submissions early this week to help reduce load next week. Most terms this comes before a break that should give you time to grade these before the next lesson starts
+
+</div>
+</div>
 <div class="lesson-plan">
 
 ### Lesson 7
@@ -206,6 +226,8 @@ Project Deliverable 2B: Give students head's up about user research and methods.
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/07-lesson-7/) at start of week
+* [ ] Grade P2A (last lesson deliverable) first to ensure folks have feedback heading into their next deliverable.
+* [ ] Grade P1F (last lesson deliverable) and Midterm Exam as you're able. Hopefully a break is occurring or has occurred that allowed you to get these done.
 * [ ] Engage in discussions.
 
 </div>

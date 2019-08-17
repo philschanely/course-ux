@@ -104,7 +104,7 @@ Next create style tiles for your website direction. Create at least two options 
 * Use textures and/or imagery to fill the provide graphic boxes.
 * For typography change not only the fonts but also sizes, spacing, color, weither, etc. in order to ensure the appropriate contrast between each level while also maintaining a sense of unity.
 
-Export your artboards from Sketch as PDFs and combine into a single PDF to submit in the corresponding submission in Moodle.
+Export your artboards from Sketch as PDFs and combine into a single PDF to submit.
 
 </Subpage>
 <Subpage slug="f">
@@ -113,7 +113,7 @@ Export your artboards from Sketch as PDFs and combine into a single PDF to submi
 
 #### Getting Started in InVision
 
-Look for the information provided by the instructor in Moodle for how to create an account with InVision. Create your education account using your Cedarville email address and the access code provided.
+Look for the information provided by the instructor for how to create an account with InVision.
 
 Watch [this video](https://goo.gl/B3nBdo) for an introduction to using InVision for class projects. Review any additional videos you'd like from the "Learn" menu in the upper menu in InVision.
 
@@ -154,6 +154,6 @@ Create your process book for the project and be sure to include at least the fol
     * Final design comps
     * Link to the prototype in InVision
 
-Submit your Process Book in Moodle as a PDF attachment.
+Submit your Process Book as a PDF attachment.
 
 </Subpage>
