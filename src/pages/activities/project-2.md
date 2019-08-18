@@ -12,7 +12,7 @@ import Subpage from "../../components/subpage.js"
 For this project you must come up with an idea for a new mobile application that you and other people you know will use.
 
 * Scope --
-  You do not need to code this site or even design every page of the site.
+  You do not need to code this app or even design every page of the app.
   Instead you must plan to create a prototype of the key features that would "sell" the app to its target audience.
 * Final format --
   You will create two final components for this project:
@@ -33,12 +33,12 @@ The proposal for this project should take on the form of a simple pitch for the 
 
 * Name of the application
 * Single sentence that encapsulates the need/key feature of this application.
-* Bullet-point list of specific features
+* Bullet-point list of specific features (you will not build all of these, but this gives a sense of the full scope of what the app would be if fully developed)
 * As needed supporting narrative to provide more background
 
-Submit your two written proposals as a single PDF file attached to the corresponding submission in Moodle.
+Submit your two written proposals as a single PDF file.
 
-Your professor will weigh in on your proposals and work wiht you to determine one that you'll pursue for the rest of the project.
+Your professor will weigh in on your proposals and work with you to determine one that you'll pursue for the rest of the project.
 
 </Subpage>
 <Subpage slug="b">

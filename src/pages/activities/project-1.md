@@ -138,12 +138,13 @@ Use InVision to add hotspots to your screens that you synchronized via Craft. Be
 
 ### Final Submission
 
-Make any final revisions you need to make to your project and prototype in InVision based on feedback. Be sure your most current version is set up and polished in InVision.
+Make any final revisions you need to make to your project and prototype in InVision based on feedback. Be sure your most current version is set up and polished in InVision. While your professor should already have collaborator access to your project, use the share options to obtain a public URL for your project to submit. Test it on a computer without being logged in to InVision.
 
-Create your process book for the project and be sure to include at least the following:
+Next create your process book for the project and be sure to include at least the following:
 
 * Overall, describe and show the steps you walked through for the project.
 * Include deliverables such as:
+    * Problems you were trying to solve
     * Images of the original site
     * Your user research
     * Thumbnail sketches
@@ -152,7 +153,7 @@ Create your process book for the project and be sure to include at least the fol
     * Hi-fidelity wireframes
     * Style tiles
     * Final design comps
-    * Link to the prototype in InVision
+    * Link to the prototype in InVision (same as you submit as indicated above)
 
 Submit your Process Book as a PDF attachment.
 
