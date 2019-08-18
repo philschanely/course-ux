@@ -195,6 +195,8 @@ Next week is a big week that we'll foreshadow for folks in this week's announcem
 
 <div class="lesson-plan__notes">
 
+#### Notes
+
 Students take the midterm exam and submit final for P1 including the process book. They also need to submit their proposals for P2.
 
 </div>
@@ -202,7 +204,7 @@ Students take the midterm exam and submit final for P1 including the process boo
 
 #### Action items
 
-* [ ] Send [announcement](/lesson-plans/announcements/midterm/) at start of week
+* [ ] Send [announcement](/lesson-plans/announcements/midterms/) at start of week
 * [ ] Grade P1F (last lesson deliverable)
 * [ ] Try to stay on top exam, P1 final, and P2A submissions early this week to help reduce load next week. Most terms this comes before a break that should give you time to grade these before the next lesson starts
 
