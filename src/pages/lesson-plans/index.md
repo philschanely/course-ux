@@ -252,6 +252,7 @@ Project Deliverable 2C: Stress task-focused design in this deliverable. Students
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/08-lesson-8/) at start of week
+* [ ] Grade P2B (last lesson deliverable) 
 * [ ] Engage in discussions.
 
 </div>

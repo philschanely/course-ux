@@ -4,7 +4,10 @@ title:  "Lesson 7 Discussions"
 ---
 [&raquo; Back to Lesson Plans](/lesson-plans/)
 
-Answer at least two of the following questions by 5pm Tuesday. Then answer at least three more questions or post in response to your peers or professor by 5pm Friday.
+This week make **at least 5 substantive posts** for this lesson's threads as follows:
+
+- Reply to at least 3 of the numbered questions posed in the threads below **by 5pm Tuesday.**
+- Then keep an eye on these and the other threads and respond to other students' posts or the professor's new questions with at least 2 more replies **by 5pm Friday.**
 
 ## 7.1 Understanding People in Interaction and Information Design
 
@@ -36,7 +39,7 @@ Garrett claims that information architecture is a very old discipline. Describe 
 
 ## 7.8 cedarville.edu: top-down or bottom-up?
 
-Do you think Cedarville University’s main outside-facing website uses a primarily top-down architecture or a bottom-up architecture? Or is it balanced between the two? Why do you conclude one or the other?
+Do you think Cedarville University’s main public-facing website uses a primarily top-down architecture or a bottom-up architecture? Or is it balanced between the two? Give support for your conclusion.
 
 ## 7.9 Describing Architecture
 

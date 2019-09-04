@@ -47,9 +47,9 @@ Your professor will weigh in on your proposals and work with you to determine on
 
 Identify at least 5 people who might use the application you're planning. Conduct research in at least one of the following ways:
 
-1. Contextual research -- observe the user in authentic situations similar to how and when your application might be used. Gain perspective on the actual context and use cases for your application.
-2. Interview or Focus Group Questionnaire -- prepare a list of questions you can use to interview potential users to gain information about your application. Be careful not to ask leading questions, but instead, to ask questions that give you information about the user's conceptual model for such an application, how they might use it, what they'd expect it to include, what they'd expect it to look like, etc.
-3. Survey -- if designing an application that has a broad base of users to which you have access, a survey might be helpful. In this case, devise a short, focused, informative and structured survey to distribute and collect electronically.
+1. **Contextual research** -- observe the user in authentic situations similar to how and when your application might be used. Gain perspective on the actual context and use cases for your application.
+2. **Interview or Focus Group Questionnaire** -- prepare a list of questions you can use to interview potential users to gain information about your application. Be careful not to ask leading questions, but instead, to ask questions that give you information about the user's conceptual model for such an application, how they might use it, what they'd expect it to include, what they'd expect it to look like, etc.
+3. **Survey** -- if designing an application that has a broad base of users to which you have access, a survey might be helpful. In this case, devise a short, focused, informative and structured survey to distribute and collect electronically.
 
 Gather your results and prepare a user research report similar to what you completed during earlier projects. Include at least the following:
 
@@ -58,7 +58,7 @@ Gather your results and prepare a user research report similar to what you compl
 * Summary of implications for your project
 * Appendix of research tools (questionnaire, survey) and data collected (survey results, data from interviews, data from observations, etc.).
 
-Submit your report as a PDF attachment using the corresponding submission in Moodle.
+Submit your report as a neatly formatted PDF file.
 
 </Subpage>
 <Subpage slug="c">
@@ -78,15 +78,15 @@ For example, if I was creating an app that sells prints from a collection of loc
 2. User searches, filters, and sorts as needed until she finds a print in the list that interests her.
 3. User taps to view details about the print.
 4. After deciding she'd like to buy it she taps an option to add it to her cart.
-5. As this is the only item she wants she finds she chooses to check out.
-6. In the checkout process she sees the item(s) in her cart and confirms the order is correct.
+5. As this is the only item she wants she chooses to check out.
+6. In the checkout process she sees the item in her cart and confirms the order is correct.
 7. Next she enters her shipping address and chooses a shipping option.
 8. Then she enters her method of payment and completes the purchase.
-9. Finally she sees a confirmation screen reflecting that her order has been placed and lists the expected delivery dates. She can then return to browse the product list or change her order.
+9. Finally she sees a confirmation screen reflecting that her order has been placed and lists the expected delivery dates. She sees options allowing her to return to browse the product list or change her order.
 
-First sketch the diagram on paper in order to plan and refine the steps. Then transfer to digital form to tidy up and export as a PDF.
+First sketch the diagram on paper in order to plan and refine the steps. Then transfer to digital form to tidy up.
 
-Submit your diagram and updated purpose and features using the corresponding submission in Moodle.
+Submit your diagram along with updated purpose and features list in a single a PDF file.
 
 </Subpage>
 <Subpage slug="d">
