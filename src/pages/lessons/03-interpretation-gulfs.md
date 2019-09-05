@@ -41,5 +41,5 @@ Here is a [sample video](https://youtu.be/pL81u49icRI).
 
 </Subpage>
 
-[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[holtz]: https://learning.oreilly.com/library/view/contextual-design-2nd/9780128011362/
 [norman]: https://www.udacity.com/course/design101

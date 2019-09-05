@@ -21,9 +21,9 @@ Now we'll turn back to the Holtzblatt text to learn more about methods of contex
 
 Next lets continue our course from Udacity and learn about conceptual models.
 
-***Complete lesson 2 from [the Udacity course][norman].*** 
+***Complete lesson 2 from [the Udacity course][norman].***
 
 </Subpage>
 
-[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[holtz]: https://learning.oreilly.com/library/view/contextual-design-2nd/9780128011362/
 [norman]: https://www.udacity.com/course/design101

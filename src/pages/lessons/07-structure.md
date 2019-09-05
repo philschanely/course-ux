@@ -14,6 +14,6 @@ Continuing with our walk through Garrett's five planes of user experience design
 
 ***Read Chapter 5 from [Garrett][garrett]***.
 
-[garrett]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780321688651
+[garrett]: https://learning.oreilly.com/library/view/the-elements-of/9780321688651/
 
 </Subpage>

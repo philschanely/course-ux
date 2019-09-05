@@ -25,5 +25,5 @@ To complete our initial study of contextual research let's survey the next three
 
 </Subpage>
 
-[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[holtz]: https://learning.oreilly.com/library/view/contextual-design-2nd/9780128011362/
 [norman]: https://www.udacity.com/course/design101
