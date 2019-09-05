@@ -32,5 +32,5 @@ but, rather, will simply enjoy the instructional content from Norman and his col
 
 </Subpage>
 
-[holtz]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/design/9780128011362
+[holtz]: https://learning.oreilly.com/library/view/contextual-design-2nd/9780128011362/
 [norman]: https://www.udacity.com/course/design101

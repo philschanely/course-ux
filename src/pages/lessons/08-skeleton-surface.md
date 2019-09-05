@@ -25,4 +25,4 @@ Lets wrap up our study of Garrett's planes with the Surface Plane.
 
 </Subpage>
 
-[garrett]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780321688651
+[garrett]: https://learning.oreilly.com/library/view/the-elements-of/9780321688651/

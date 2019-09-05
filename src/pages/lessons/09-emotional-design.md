@@ -32,4 +32,4 @@ Next we continue thinking about emotional design specifically as geared towards 
 
 </Subpage>
 
-[walter]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780133052954
+[walter]: https://learning.oreilly.com/library/view/designing-for-emotion/9780133052954/

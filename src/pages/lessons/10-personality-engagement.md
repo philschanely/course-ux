@@ -23,6 +23,6 @@ Read about how we can use a variety of factors to add emotional appeal to our in
 
 ***Read Chapter 4 from [Walter »][walter]***
 
-[walter]: http://0-proquest.safaribooksonline.com.library.cedarville.edu/book/web-design-and-development/9780133052954
+[walter]: https://learning.oreilly.com/library/view/designing-for-emotion/9780133052954/
 
 </Subpage>
