@@ -16,7 +16,7 @@ A key to this is getting out of the office and spending time with people.
 To help us understand user research, particularly contextual inquiry
 we'll read portions of *Contextual Design, 2nd Edition* by Karen Holtzblatt and Hugh Beyer. While you're welcome to obtain paper copies of this book you can access it for free through our library's access to Safari Tech Books. Off campus you'll need to enter your full 14-digit id number from your id card.
 
-***Read Chapters 1--2 from [Holtzblatt][holtz].***
+***Read Chapters 1—2 (Introduction, User Data Drives Design) from [Holtzblatt][holtz].***
 
 </Subpage>
 <Subpage slug="affordances-and-signifiers" isActive={false}>
