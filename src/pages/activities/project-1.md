@@ -3,7 +3,7 @@ type: activities
 title:  "Project 1: Site Redesign"
 cover: "https://source.unsplash.com/abkEAOjnY0s"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="intro">
 
@@ -13,10 +13,10 @@ For this project you must choose a site that you as a user thought was particula
 
 You must then plan and redesign at least two significant improvements based on what you've learned in the first part of the course.
 
-* **Scope --** You do not need to code this site or even design every page of the site. However you must consider how the elements you're aiming to address impact other aspects of the site and account for this in your redesign. The portions you choose should feel complete and unified.
-* **Final format --** You will create two final components for this project:
-    * *Prototype site --* You will use InVision to create a simulation of the redesigned website including at least three screens.
-    * *Process book --* You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project. You will then compile these into a neatly-formatted process book.
+* **Scope —** You do not need to code this site or even design every page of the site. However you must consider how the elements you're aiming to address impact other aspects of the site and account for this in your redesign. The portions you choose should feel complete and unified.
+* **Final format —** You will create two final components for this project:
+    * *Prototype site —* You will use InVision to create a simulation of the redesigned website including at least three screens.
+    * *Process book —* You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project. You will then compile these into a neatly-formatted process book.
 
 </Subpage>
 <Subpage slug="a">
@@ -28,6 +28,12 @@ Propose a site you will redesign and include the following:
 * At least two aspects of the site that you find jarring, a hassle, or just out of sync with your expectations. Again, make sure to identify these as distinct tasks that were hard to accomplish.
 * A brief vision for how you might address these concerns and make the tasks easier for users to accomplish.
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your proposal in text form in the provided assignment.
+
+</Callout>
+
 </Subpage>
 <Subpage slug="b">
 
@@ -37,7 +43,7 @@ In this deliverable you'll get a sense of what other users think of the site and
 
 * Ideally each session should be a contextual inquiry interview involving active intervention (observing, interpretting, etc.).
 * At the least, conduct a structured use-case session where you determine a set of tasks and questions for the user *in advance.* Then walk through the prompts with them and observe as they try to complete the tasks.
-* Record data from each session. Then synthesize the data into a user testing report that includes the following:
+* Record data from each session. Then synthesize the data into a user research report that includes the following:
     * *Research overview:*
         * Number of sessions you conducted
         * Generally speaking, the nature/structure of each session
@@ -45,8 +51,14 @@ In this deliverable you'll get a sense of what other users think of the site and
     * *Reflection:* What did you gain from the user testing? Were your concerns about the site validated? Were other issues discovered? Do you now have other ideas about the nature of your redesign to take into consideration?
     * *Refined project goals:*
         * Distinct, measurable statements about what the end result of the project will be.
-        * To build these, start by reviewing your original goals. Consider how user research affected these. Then write 2--5 goals as a result.
+        * To build these, start by reviewing your original goals. Consider how user research affected these. Then write 2–5 goals as a result.
         * Be sure to phrase them around improving the user experience in some fashion. This can be subtle but important for stressing user-centered design from the start.
+
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your report as a single PDF file.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="c">
@@ -61,7 +73,11 @@ Create only the wireframes you need in order to demonstrate the complete tasks. 
 
 Next record a quick walk through of your paper prototype that demonstrates the user task you expect to accomplish through the prototype. This is easy to create with most cell phones today. You can post your video to any common video site such as YouTube (especially easy using your university Google access to YouTube). Set the privacy as desired as long as you can share the link with your professor through this assignment submission.
 
-Be prepared to submit scanned PDFs of your prototype along with the link to your demonstration video.
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit scans of your prototype as a single PDF file along with the link to your demonstration video.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="d">
@@ -85,6 +101,12 @@ Prepare a PDF report to submit that includes the following:
 
 See this [sample report](/docs/sample-user-testing-report.pdf) and borrow any of the language and formatting you'd like.
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your report as a single PDF file.
+
+</Callout>
+
 </Subpage>
 <Subpage slug="e">
 
@@ -104,7 +126,11 @@ Next create style tiles for your website direction. Create at least two options 
 * Use textures and/or imagery to fill the provide graphic boxes.
 * For typography change not only the fonts but also sizes, spacing, color, weither, etc. in order to ensure the appropriate contrast between each level while also maintaining a sense of unity.
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
 Export your artboards from Sketch as PDFs and combine into a single PDF to submit.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="f">
@@ -133,6 +159,12 @@ Otherwise, on your own computer, while logged in to InVision in a new tab in you
 
 Use InVision to add hotspots to your screens that you synchronized via Craft. Be sure that your prototype functions as expected based on the goals you set for your redesign.
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Ensure your professor is a collaborator on your InVision project and submit the provided assignment to indicate you're ready for feedback.
+
+</Callout>
+
 </Subpage>
 <Subpage slug="final">
 
@@ -155,6 +187,10 @@ Next create your process book for the project and be sure to include at least th
     * Final design comps
     * Link to the prototype in InVision (same as you submit as indicated above)
 
-Submit your Process Book as a PDF attachment.
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your Process Book as a single PDF file.
+
+</Callout>
 
 </Subpage>

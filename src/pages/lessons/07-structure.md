@@ -4,7 +4,7 @@ number: 7
 title: "Structure"
 cover: "https://source.unsplash.com/26MJGnCM0Wc"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="structure">
 
@@ -12,7 +12,11 @@ import { Subpage } from "course-components";
 
 Continuing with our walk through Garrett's five planes of user experience design, let's examine the Structure plane.
 
-***Read Chapter 5 from [Garrett][garrett]***.
+<Callout lead={true} color="alternate">
+
+Read Chapter 5 from [Garrett][garrett].
+
+</Callout>
 
 [garrett]: https://learning.oreilly.com/library/view/the-elements-of/9780321688651/
 

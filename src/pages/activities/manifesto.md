@@ -3,10 +3,16 @@ type: activities
 title: "Interactive Design Manifesto Paper"
 cover: "https://source.unsplash.com/xG8IQMqMITM"
 ---
+import { Subpage, Callout } from "course-components";
+
+<Subpage slug="background">
 
 ### Background
 
 I've been involved in a number of job interviews (on both sides of the table) and reviewed a variety of job descriptions. It strikes me that there is not at all a consensus on what it is to do UX or be a UX/UI designer. Therefore I believe it behooves you as a student of this course and graduate of our program to be prepared to enter the workplace having thought through for yourself and based on our course material what all this means. Some companies you might consider will have a solid understanding of UX/UI and you will need to compare it with your understanding to ensure you're on the same page to adjust or help them further develop it. Other companies might not have a clue of what it is despite having jobs that aim to do it... you might be the first person coming with some background in related topics!
+
+</Subpage>
+<Subpage slug="requirements">
 
 ### Requirements
 
@@ -41,4 +47,10 @@ Generally, you should have an introduction and conclusion with your principles c
 
 This does not have to be a long paper; *most quality submissions will be a complete two pages* plus citations in the academic format of your choice. Be neat in your presentation and logical in your the flow of how you write the paper and cover the principles.
 
-***Submit the final paper as a PDF.***
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit the final paper as a PDF.
+
+</Callout>
+
+</Subpage>

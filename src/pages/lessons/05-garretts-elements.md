@@ -4,7 +4,7 @@ number: 5
 title:  "Garrett's Elements of UX"
 cover: "https://source.unsplash.com/IGqMKnl6LNE"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="ux-in-digital-design">
 
@@ -14,7 +14,11 @@ Above all, this course is about effective design of interactive solutions. But h
 
 Perhaps it is all of these. Let's dive into our first set of content from Jesse James Garrett's text, *The Elements of User Experience*.
 
-***Read Chapter 1 from [Garrett][garrett]***.
+<Callout lead={true} color="alternate">
+
+Read Chapter 1 from [Garrett][garrett].
+
+</Callout>
 
 </Subpage>
 <Subpage slug="garretts-elements-of-ux">
@@ -23,7 +27,11 @@ Perhaps it is all of these. Let's dive into our first set of content from Jesse 
 
 Lets learn more about the five planes of user-centered design. As a designer, you'll probably tend to think first about the way something should look. But the planes Garrett explains provide a richer context for the visual (surface) aspect.
 
-***Read Chapter 2 from [Garrett][garrett]***
+<Callout lead={true} color="alternate">
+
+Read Chapter 2 from [Garrett][garrett].
+
+</Callout>
 
 Our project processes in this course will largely mirror the planes outlined here. First we'll set the goals of an application (strategy). Then we'll move on to do some research and determine the requirements (scope), then develop personas and task flow diagrams (structure) followed by wireframes, which we will test extensively (skeleton). Finally, we will skin those wireframes and string them together to create a prototype (surface).
 

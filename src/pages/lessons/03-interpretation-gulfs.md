@@ -4,7 +4,7 @@ number: 3
 title:  "Interpretation, Evaluation, and Execution"
 cover: "https://source.unsplash.com/KCzCfkic-ig"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="interpreting">
 
@@ -12,7 +12,11 @@ import { Subpage } from "course-components";
 
 Returning to the Holtzblatt text we now look at how to share data effectively from contextual research and take next steps towards acting on what we've learned.
 
-***Read Chapter 4 (The Interpretation Session) from [Holtzblatt][holtz].***
+<Callout lead={true} color="alternate">
+
+Read Chapter 4 (The Interpretation Session) from [Holtzblatt][holtz].
+
+</Callout>
 
 </Subpage>
 <Subpage slug="gulfs-of-evaluation-and-execution">
@@ -21,7 +25,11 @@ Returning to the Holtzblatt text we now look at how to share data effectively fr
 
 The final lesson from Don Norman's course at Udacity discusses how users can get stuck in one of two gulfs related to how we designed things for them when done poorly.
 
-***Complete the content in Lesson 3 from [Norman's Udacity course »][norman]***
+<Callout lead={true} color="alternate">
+
+Complete the content in Lesson 3 from [Norman's Udacity course »][norman]
+
+</Callout>
 
 </Subpage>
 <Subpage slug="introduction-to-paper-prototyping">

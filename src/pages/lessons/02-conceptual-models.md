@@ -4,7 +4,7 @@ number: 2
 title:  "Contextual Inquiry and Conceptual Models"
 cover: "https://source.unsplash.com/YXemfQiPR_E"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="contextual-inquiry">
 
@@ -12,7 +12,11 @@ import { Subpage } from "course-components";
 
 Now we'll turn back to the Holtzblatt text to learn more about methods of contextual inquiry.
 
-***Read Chapter 3 (Principles of Contextual Inquiry) from [Holtzblatt][holtz].***
+<Callout lead={true} color="alternate">
+
+Read Chapter 3 (Principles of Contextual Inquiry) from [Holtzblatt][holtz].
+
+</Callout>
 
 </Subpage>
 <Subpage slug="conceptual-models">
@@ -21,7 +25,11 @@ Now we'll turn back to the Holtzblatt text to learn more about methods of contex
 
 Next lets continue our course from Udacity and learn about conceptual models.
 
-***Complete lesson 2 from [the Udacity course][norman].***
+<Callout lead={true} color="alternate">
+
+Complete lesson 2 from [Norman's Udacity course][norman].
+
+</Callout>
 
 </Subpage>
 

@@ -3,7 +3,7 @@ type: activities
 title:  "Project 2: Mobile App Prototype"
 cover: "https://source.unsplash.com/xezXEh_fIeU"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="intro">
 
@@ -11,14 +11,14 @@ import { Subpage } from "course-components";
 
 For this project you must come up with an idea for a new mobile application that you and other people you know will use.
 
-* Scope --
+* Scope —
   You do not need to code this app or even design every page of the app.
   Instead you must plan to create a prototype of the key features that would "sell" the app to its target audience.
-* Final format --
+* Final format —
   You will create two final components for this project:
-    * Prototype --
+    * Prototype —
       You will use InVision to create a simulation of the application including at least five screens/states.
-    * Process book --
+    * Process book —
       You will keep evidence of research, sketches, and design comps along with short narrative of your work at each stage of the project.
       You will then compile these into a neatly-formatted process book.
 
@@ -36,9 +36,13 @@ The proposal for this project should take on the form of a simple pitch for the 
 * Bullet-point list of specific features (you will not build all of these, but this gives a sense of the full scope of what the app would be if fully developed)
 * As needed supporting narrative to provide more background
 
+Your professor will weigh in on your proposals and work with you to determine one that you'll pursue for the rest of the project.
+
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
 Submit your two written proposals as a single PDF file.
 
-Your professor will weigh in on your proposals and work with you to determine one that you'll pursue for the rest of the project.
+</Callout>
 
 </Subpage>
 <Subpage slug="b">
@@ -47,9 +51,9 @@ Your professor will weigh in on your proposals and work with you to determine on
 
 Identify at least 5 people who might use the application you're planning. Conduct research in at least one of the following ways:
 
-1. **Contextual research** -- observe the user in authentic situations similar to how and when your application might be used. Gain perspective on the actual context and use cases for your application.
-2. **Interview or Focus Group Questionnaire** -- prepare a list of questions you can use to interview potential users to gain information about your application. Be careful not to ask leading questions, but instead, to ask questions that give you information about the user's conceptual model for such an application, how they might use it, what they'd expect it to include, what they'd expect it to look like, etc.
-3. **Survey** -- if designing an application that has a broad base of users to which you have access, a survey might be helpful. In this case, devise a short, focused, informative and structured survey to distribute and collect electronically.
+1. **Contextual research** — observe the user in authentic situations similar to how and when your application might be used. Gain perspective on the actual context and use cases for your application.
+2. **Interview or Focus Group Questionnaire** — prepare a list of questions you can use to interview potential users to gain information about your application. Be careful not to ask leading questions, but instead, to ask questions that give you information about the user's conceptual model for such an application, how they might use it, what they'd expect it to include, what they'd expect it to look like, etc.
+3. **Survey** — if designing an application that has a broad base of users to which you have access, a survey might be helpful. In this case, devise a short, focused, informative and structured survey to distribute and collect electronically.
 
 Gather your results and prepare a user research report similar to what you completed during earlier projects. Include at least the following:
 
@@ -58,7 +62,11 @@ Gather your results and prepare a user research report similar to what you compl
 * Summary of implications for your project
 * Appendix of research tools (questionnaire, survey) and data collected (survey results, data from interviews, data from observations, etc.).
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
 Submit your report as a neatly formatted PDF file.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="c">
@@ -86,7 +94,11 @@ For example, if I was creating an app that sells prints from a collection of loc
 
 First sketch the diagram on paper in order to plan and refine the steps. Then transfer to digital form to tidy up.
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
 Submit your diagram along with updated purpose and features list in a single a PDF file.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="d">
@@ -99,7 +111,11 @@ Then create larger low-fidelity wireframes (giving the impression of life-size).
 
 Create a quick demo video of you talking through the task and screens you will use for your testing sessions in Deliverable E. As before, post this video to YouTube.
 
-Finally, scan and combine these into a single legible PDF file and attach them to the corresponding assignment in Moodle. Also include the URL for your demo video.
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Scan and combine these into a single legible PDF file. Also include the URL for your demo video.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="e">
@@ -114,19 +130,25 @@ Then conduct at least five user test sessions with your wireframes.
 2. During the test simulate the likely changes to the interface by changing the page or adding layovers using techniques discussed in class.
 3. Take minimal notes of observations during the test, but be sure to write complete notes afterwards.
 
-Submit a PDF report in Moodle that includes the following:
+Create a neatly-formatted report that includes the following:
 
 * Overview of testing protocol
 * Summary of results
 * Revisions planned as a result of testing
 * Full protocol as an appendix
 
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your report as a single PDF file.
+
+</Callout>
+
 </Subpage>
 <Subpage slug="f">
 
 ### Deliverable F: Styles and App Persona
 
-Use [this template](http://web1.philschanely.com/docs/style-tile-template.sketch) to create style tiles for your application. Export this as a PNG you can include as the visual lexicon in the next component.
+Use [this template](http://web1.philschanely.com/docs/style-tile-template.sketch) to create style tiles for your application.
 
 Also create an App Persona based on what you've read in the Walter text. Aim to address the following:
 
@@ -140,7 +162,13 @@ Also create an App Persona based on what you've read in the Walter text. Aim to 
 * Visual lexicon (use style tiles here)
 * Engagement Methods
 
-Export your full submission here as a PDF file and submit in the corresponding submission in Moodle.
+Combine the Persona and Style tiles into a single PDF document that is neatly formatted.
+
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your Style Tiles and App Persona as a single PDF document.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="g">
@@ -158,7 +186,11 @@ Set up your comps as an interactive prototype using InVision.
 2. Sync your comps from Sketch to this project.
 3. Add hotspots to simulate interaction with the application.
 
-Synchronize your designs to InVision and set up your full prototype.
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Ensure your professor is a collaborator on your InVision project and submit the provided assignment to indicate you're ready for feedback.
+
+</Callout>
 
 </Subpage>
 <Subpage slug="final">
@@ -181,6 +213,10 @@ Create your process book for the project and be sure to include at least the fol
     * Final design comps
     * Link to the prototype in InVision
 
-Submit your Process Book in Moodle as a PDF attachment.
+<Callout icon="flag-checkered" color="tertiary" lead={true}>
+
+Submit your Process Book as a single PDF file.
+
+</Callout>
 
 </Subpage>

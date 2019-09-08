@@ -4,7 +4,7 @@ number: 9
 title: "Emotional Design for Humans"
 cover: "https://source.unsplash.com/UOwvwZ9Dy6w"
 ---
-import { Subpage } from "course-components";
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="emotional-design">
 
@@ -12,7 +12,11 @@ import { Subpage } from "course-components";
 
 Let's start a new text, Aaron Walter's *Designing for Emotion*. What does it mean to "design for emotion?" How can we make our interfaces not just functional and efficient, but also appealing to people?
 
-***Read Chapter 1 from [Walter »][walter]***
+<Callout lead={true} color="alternate">
+
+Read Chapter 1 from [Walter][walter].
+
+</Callout>
 
 #### Questions:
 
@@ -28,7 +32,11 @@ Let's start a new text, Aaron Walter's *Designing for Emotion*. What does it mea
 
 Next we continue thinking about emotional design specifically as geared towards real human beings. Genius.
 
-***Read Chapter 2 from [Walter »][walter]***
+<Callout lead={true} color="alternate">
+
+Read Chapter 2 from [Walter][walter].
+
+</Callout>
 
 </Subpage>
 
