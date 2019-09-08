@@ -4,7 +4,7 @@ number: 6
 title: "Strategy and Scope"
 cover: "https://source.unsplash.com/fzOITuS1DIQ"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="strategy">
 
@@ -12,7 +12,11 @@ import Subpage from "../../components/subpage.js"
 
 Let's take a closer look at the Strategy Plane from Garrett's five planes.
 
-***Read Chapter 3 from [Garrett][garrett]***.
+<Callout lead={true} color="alternate">
+
+Read Chapter 3 from [Garrett][garrett].
+
+</Callout>
 
 Begin to consider what product objectives and user needs your project might articulate.
 
@@ -23,7 +27,11 @@ Begin to consider what product objectives and user needs your project might arti
 
 Next we study Garrett's second plane, the scope plane. As you read, consider how this applies to your project, and note some ideas for refining your project's scope.
 
-***Read Chapter 4 from [Garrett][garrett]***.
+<Callout lead={true} color="alternate">
+
+Read Chapter 4 from [Garrett][garrett].
+
+</Callout>
 
 </Subpage>
 

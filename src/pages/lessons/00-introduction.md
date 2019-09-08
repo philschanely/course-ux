@@ -4,7 +4,7 @@ number: 0
 title:  "Introduction"
 cover: "https://source.unsplash.com/lUtPqjz5D5k"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="welcome">
 
@@ -23,8 +23,6 @@ Note that we'll use the following technologies in this course and learn more usi
 
 ### Connecting
 
-Let's start by considering the impact that interactive devices have made in our world by watching this video:
-
-[Connecting](http://vimeo.com/52861634)
+Let's start by considering the impact that interactive devices have made in our world by watching this video: [Connecting](http://vimeo.com/52861634)
 
 </Subpage>

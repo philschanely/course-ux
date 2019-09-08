@@ -4,7 +4,7 @@ number: 10
 title: "Personality and Emotional Engagement"
 cover: "https://source.unsplash.com/Q_Sei-TqSlc"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage, Callout } from "course-components";
 
 <Subpage slug="personality">
 
@@ -12,7 +12,11 @@ import Subpage from "../../components/subpage.js"
 
 As you get to know your users don't forget that your interactive project can also have its own personality.
 
-***Read Chapter 3 from [Walter »][walter]***
+<Callout lead={true} color="alternate">
+
+Read Chapter 3 from [Walter][walter].
+
+</Callout>
 
 </Subpage>
 <Subpage slug="emotional-engagement">
@@ -21,7 +25,11 @@ As you get to know your users don't forget that your interactive project can als
 
 Read about how we can use a variety of factors to add emotional appeal to our interactive applications.
 
-***Read Chapter 4 from [Walter »][walter]***
+<Callout lead={true} color="alternate">
+
+Read Chapter 4 from [Walter][walter].
+
+</Callout>
 
 [walter]: https://learning.oreilly.com/library/view/designing-for-emotion/9780133052954/
 
