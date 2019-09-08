@@ -4,7 +4,7 @@ number: 4
 title:  "Data Reporting Methods"
 cover: "https://source.unsplash.com/bjemWZcNF34"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="sharing-data">
 

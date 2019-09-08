@@ -4,7 +4,7 @@ number: 10
 title: "Personality and Emotional Engagement"
 cover: "https://source.unsplash.com/Q_Sei-TqSlc"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="personality">
 

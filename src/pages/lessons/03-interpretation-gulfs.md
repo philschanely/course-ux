@@ -4,7 +4,7 @@ number: 3
 title:  "Interpretation, Evaluation, and Execution"
 cover: "https://source.unsplash.com/KCzCfkic-ig"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="interpreting">
 

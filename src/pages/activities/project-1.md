@@ -3,7 +3,7 @@ type: activities
 title:  "Project 1: Site Redesign"
 cover: "https://source.unsplash.com/abkEAOjnY0s"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="intro">
 

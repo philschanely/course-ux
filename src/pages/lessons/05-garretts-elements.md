@@ -4,7 +4,7 @@ number: 5
 title:  "Garrett's Elements of UX"
 cover: "https://source.unsplash.com/IGqMKnl6LNE"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="ux-in-digital-design">
 

@@ -4,7 +4,7 @@ number: 6
 title: "Strategy and Scope"
 cover: "https://source.unsplash.com/fzOITuS1DIQ"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="strategy">
 

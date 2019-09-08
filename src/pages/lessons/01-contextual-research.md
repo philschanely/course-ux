@@ -4,7 +4,7 @@ number: 1
 title:  "Contextual Research, Affordances, and Signifiers"
 cover: "https://source.unsplash.com/lKlm7XfB0PY"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="contextual-research">
 

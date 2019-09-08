@@ -3,7 +3,7 @@ type: activities
 title:  "Project 2: Mobile App Prototype"
 cover: "https://source.unsplash.com/xezXEh_fIeU"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="intro">
 

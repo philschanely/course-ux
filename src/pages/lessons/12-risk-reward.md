@@ -4,7 +4,7 @@ number: 12
 title: "Risk and Reward"
 cover: "https://source.unsplash.com/z0nVqfrOqWA"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="risk-and-reward">
 

@@ -4,7 +4,7 @@ number: 8
 title: "Skeleton and Surface"
 cover: "https://source.unsplash.com/dSRhwPe6v9c"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="skeleton">
 

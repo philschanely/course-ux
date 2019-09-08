@@ -4,7 +4,7 @@ number: 11
 title: "Overcoming Obstacles and Forgiveness"
 cover: "https://source.unsplash.com/KQCXf_zvdaU"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="overcoming-obstacles">
 

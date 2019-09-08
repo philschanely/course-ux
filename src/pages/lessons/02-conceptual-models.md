@@ -4,7 +4,7 @@ number: 2
 title:  "Contextual Inquiry and Conceptual Models"
 cover: "https://source.unsplash.com/YXemfQiPR_E"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="contextual-inquiry">
 

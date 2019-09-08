@@ -4,7 +4,7 @@ number: 9
 title: "Emotional Design for Humans"
 cover: "https://source.unsplash.com/UOwvwZ9Dy6w"
 ---
-import Subpage from "../../components/subpage.js"
+import { Subpage } from "course-components";
 
 <Subpage slug="emotional-design">
 
