@@ -47,7 +47,7 @@ Generally, you should have an introduction and conclusion with your principles c
 
 This does not have to be a long paper; *most quality submissions will be a complete two pages* plus citations in the academic format of your choice. Be neat in your presentation and logical in your the flow of how you write the paper and cover the principles.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit the final paper as a PDF.
 

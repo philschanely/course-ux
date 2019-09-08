@@ -38,7 +38,7 @@ The proposal for this project should take on the form of a simple pitch for the 
 
 Your professor will weigh in on your proposals and work with you to determine one that you'll pursue for the rest of the project.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your two written proposals as a single PDF file.
 
@@ -62,7 +62,7 @@ Gather your results and prepare a user research report similar to what you compl
 * Summary of implications for your project
 * Appendix of research tools (questionnaire, survey) and data collected (survey results, data from interviews, data from observations, etc.).
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your report as a neatly formatted PDF file.
 
@@ -94,7 +94,7 @@ For example, if I was creating an app that sells prints from a collection of loc
 
 First sketch the diagram on paper in order to plan and refine the steps. Then transfer to digital form to tidy up.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your diagram along with updated purpose and features list in a single a PDF file.
 
@@ -111,7 +111,7 @@ Then create larger low-fidelity wireframes (giving the impression of life-size).
 
 Create a quick demo video of you talking through the task and screens you will use for your testing sessions in Deliverable E. As before, post this video to YouTube.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Scan and combine these into a single legible PDF file. Also include the URL for your demo video.
 
@@ -137,7 +137,7 @@ Create a neatly-formatted report that includes the following:
 * Revisions planned as a result of testing
 * Full protocol as an appendix
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your report as a single PDF file.
 
@@ -164,7 +164,7 @@ Also create an App Persona based on what you've read in the Walter text. Aim to 
 
 Combine the Persona and Style tiles into a single PDF document that is neatly formatted.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your Style Tiles and App Persona as a single PDF document.
 
@@ -186,7 +186,7 @@ Set up your comps as an interactive prototype using InVision.
 2. Sync your comps from Sketch to this project.
 3. Add hotspots to simulate interaction with the application.
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Ensure your professor is a collaborator on your InVision project and submit the provided assignment to indicate you're ready for feedback.
 
@@ -213,7 +213,7 @@ Create your process book for the project and be sure to include at least the fol
     * Final design comps
     * Link to the prototype in InVision
 
-<Callout icon="flag-checkered" color="tertiary" lead={true}>
+<Callout icon="flag-checkered" iconStyle="fa" color="tertiary" lead={true}>
 
 Submit your Process Book as a single PDF file.
 
