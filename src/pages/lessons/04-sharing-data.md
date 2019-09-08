@@ -12,7 +12,7 @@ import Subpage from "../../components/subpage.js"
 
 So far we've learned a number of helpful things from Holtzblatt, et. al. regarding why we should, and how to go about conducting contextual research. Next we turn to how to pull this data into beneficial reports or visual models.
 
-***Read Chapter 5 from [Holtzblatt][holtz].***
+***Read Chapter 5 (From Data to Insight: Contextual Design Models) from [Holtzblatt][holtz].***
 
 </Subpage>
 <Subpage slug="data-modeling-methods">
@@ -21,7 +21,7 @@ So far we've learned a number of helpful things from Holtzblatt, et. al. regardi
 
 To complete our initial study of contextual research let's survey the next three chapters in which Holtzblatt, et. al. describe three different types or categories of modeling data discovered during contextual research.
 
-***Skim Chapters 6--8 from [Holtzblatt][holtz].***
+***Skim Chapters 6—8 (The Affinity Diagram, Building Experience Models, Traditional Contextual Design Models) from [Holtzblatt][holtz].***
 
 </Subpage>
 

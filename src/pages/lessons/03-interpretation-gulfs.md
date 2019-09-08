@@ -12,7 +12,7 @@ import Subpage from "../../components/subpage.js"
 
 Returning to the Holtzblatt text we now look at how to share data effectively from contextual research and take next steps towards acting on what we've learned.
 
-***Read Chapter 4 from [Holtzblatt][holtz].***
+***Read Chapter 4 (The Interpretation Session) from [Holtzblatt][holtz].***
 
 </Subpage>
 <Subpage slug="gulfs-of-evaluation-and-execution">

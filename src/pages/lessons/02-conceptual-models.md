@@ -12,7 +12,7 @@ import Subpage from "../../components/subpage.js"
 
 Now we'll turn back to the Holtzblatt text to learn more about methods of contextual inquiry.
 
-***Read Chapter 3 from [Holtzblatt][holtz].***
+***Read Chapter 3 (Principles of Contextual Inquiry) from [Holtzblatt][holtz].***
 
 </Subpage>
 <Subpage slug="conceptual-models">
