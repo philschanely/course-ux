@@ -122,12 +122,12 @@ Scan and combine these into a single legible PDF file. Also include the URL for 
 
 ### Deliverable E: Paper Testing Results
 
-Make any updates needed in order to prepare your low-fidelity wireframes for user testing based on class discussion.
+Make any updates needed in order to prepare your low-fidelity wireframes for user testing based on class content and feedback from your professor.
 
 Then conduct at least five user test sessions with your wireframes.
 
 1. Develop a protocol in advance that you can use to prompt users to complete important/key tasks with the interface.
-2. During the test simulate the likely changes to the interface by changing the page or adding layovers using techniques discussed in class.
+2. During the test simulate the likely changes to the interface by changing the page or adding layovers using techniques discussed in class content.
 3. Take minimal notes of observations during the test, but be sure to write complete notes afterwards.
 
 Create a neatly-formatted report that includes the following:

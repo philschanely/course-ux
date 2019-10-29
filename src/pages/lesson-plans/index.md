@@ -6,7 +6,7 @@ title: Professor Resources
 
 ***NOTE: This resource is for instructors facilitating this course through Cedarville University's offering of VCD-3700. Unauthorized use is prohibited.***
 
-Welcome to the facilitating this course! We're glad you're willing to take on this great honor to guide students through learning this important subject. We hope students emerge with a greater empathy for users and a strogner sense of what it means to design in this field.
+Welcome to facilitating this course! We're glad you're willing to take on this great honor to guide students through learning this important subject. We hope students emerge with a greater empathy for users and a strogner sense of what it means to design in this field.
 
 In the weeks leading up to the course you may receive emails from students about course logistics. Generally, it is OK to answer them with a simple note about the course's start date and to reassure them that all information they need will be provided on the first day of class through the University LMS. If they present questions or concerns that seem urgent you do not know how to answer, please reach out to the department chairperson for assistance.
 
@@ -252,7 +252,7 @@ Project Deliverable 2C: Stress task-focused design in this deliverable. Students
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/08-lesson-8/) at start of week
-* [ ] Grade P2B (last lesson deliverable) 
+* [ ] Grade P2B (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -267,7 +267,7 @@ Project Deliverable 2C: Stress task-focused design in this deliverable. Students
 
 [Discussion prompts](/lesson-plans/discussions/09-discussions/)
 
-Project Deliverable 2D: This is similar to the previous deliverable from P1 so they should have some experience with this. Again continue to evaluate the task they're designing and the strength with which they are executing on it.
+Project Deliverable 2D: This is similar to the previous deliverable from P1 so they should have some experience with this. Again continue to evaluate the task they're designing and the strength with which they are executing on it from a user-focused angle.
 
 </div>
 <div class="lesson-plan__tasks">
@@ -275,6 +275,7 @@ Project Deliverable 2D: This is similar to the previous deliverable from P1 so t
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/09-lesson-9/) at start of week
+* [ ] Grade P2C (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -297,6 +298,7 @@ Similar deliverables as before; its all in the execution now.
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/10-lesson-10/) at start of week
+* [ ] Grade P2D (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -319,6 +321,7 @@ Similar deliverables as before; its all in the execution now.
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/11-lesson-11/) at start of week
+* [ ] Grade P2E (last lesson deliverable)
 * [ ] Engage in discussions.
 
 </div>
@@ -341,7 +344,8 @@ Similar deliverables as before; its all in the execution now.
 #### Action items
 
 * [ ] Send [announcement](/lesson-plans/announcements/12-lesson-12/) at start of week
-* [ ] Engage in discussions.
+* [ ] Grade P2F (last lesson deliverable)
+* [ ] NO discussion this week; Interactive Manifesto instead.
 
 </div>
 </div>
