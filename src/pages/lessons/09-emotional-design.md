@@ -10,7 +10,7 @@ import { Subpage, Callout } from "course-components";
 
 ### Emotional Design
 
-Let's start a new text, Aaron Walter's *Designing for Emotion*. What does it mean to "design for emotion?" How can we make our interfaces not just functional and efficient, but also appealing to people?
+Let's start a new text, Aarron Walter's *Designing for Emotion*. What does it mean to "design for emotion?" How can we make our interfaces not just functional and efficient, but also appealing to people?
 
 <Callout lead={true} color="alternate">
 
